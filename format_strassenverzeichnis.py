@@ -20,8 +20,8 @@ with open('tabula-strassenverzeichnis_wahllokale_wb_wk.tsv', 'r') as infile:
     with open('wahllokale.csv', 'w') as outfile_p:
         with open('strassenverzeichnis.csv', 'w') as outfile_s:
             csvreader = csv.reader(infile, delimiter='\t', quotechar='"')
-            csvwriter_p = csv.writer(outfile_p, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
-            csvwriter_s = csv.writer(outfile_s, delimiter=',', quotechar='"', quoting=csv.QUOTE_MINIMAL)
+            csvwriter_p = csv.writer(outfile_p, delimiter=',', quotechar='"', lineterminator='\n', quoting=csv.QUOTE_MINIMAL)
+            csvwriter_s = csv.writer(outfile_s, delimiter=',', quotechar='"', lineterminator='\n', quoting=csv.QUOTE_MINIMAL)
 
             # Output file headers
             csvwriter_p.writerow(['Wahlkreis', 'Wahlbezirk', 'Name', 'Straße', 'PLZ+Ort', 'barrierefrei'])
