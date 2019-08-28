@@ -190,7 +190,7 @@ Wahlbezirk,Straße,Hausnummern
 1309,Erich-Arendt-Str.,alle
 1309,Erich-Mendelsohn-Allee,70
 1309,Esplanade,alle
-1309,Georg-Hermann-Allee,"ung. 33-105,, ger. 26-142"
+1309,Georg-Hermann-Allee,"ung. 33-105, ger. 26-142"
 1309,Gertrud-Feiertag-Str.,alle
 1309,Hans-Paasche-Str.,alle
 1309,Hermann-Kasack-Str.,alle
@@ -231,8 +231,8 @@ Wahlbezirk,Straße,Hausnummern
 1503,Altes Rad,alle
 1503,Am alten Mörtelwerk,ung. 1-5
 1503,Am Eichenhain,alle
-1503,Baumhaselring,"ung. 111-123,, ger. 166-198A"
-1503,Baumschulenweg,"ung. 1-19, ger. 2-6,, ger. 8A-18"
+1503,Baumhaselring,"ung. 111-123, ger. 166-198A"
+1503,Baumschulenweg,"ung. 1-19, ger. 2-6, ger. 8A-18"
 1503,Birkenhügel,1-6
 1503,Brombeerstieg,alle
 1503,Ehrenpfortenbergstr.,alle
@@ -435,8 +435,8 @@ Wahlbezirk,Straße,Hausnummern
 3101,Lennestr.,"1-8, 81-84"
 3101,Luisenplatz,alle
 3101,Schopenhauerstr.,23-45
-3101,Zeppelinstr.,"1-6, ung. 173-189,, ger. 174-178"
-3102,Zimmerstr.,"ung. 1-15, ger. 2-10,, 14, 14A"
+3101,Zeppelinstr.,"1-6, ung. 173-189, ger. 174-178"
+3102,Zimmerstr.,"ung. 1-15, ger. 2-10, 14, 14A"
 3102,Feuerbachstr.,"1-13, 34-43"
 3102,Lennestr.,"59-80, 85"
 3102,Sellostr.,1-15A
@@ -450,7 +450,7 @@ Wahlbezirk,Straße,Hausnummern
 3103,Nansenstr.,1-5B
 3103,Sellostr.,20-30
 3103,Stiftstr.,alle
-3104,Zeppelinstr.,"28-33, ger. 146-162,, ung. 147-163A"
+3104,Zeppelinstr.,"28-33, ger. 146-162, ung. 147-163A"
 3104,Auf dem Kiewitt,20-44
 3104,Breite Str.,ger. 24-28
 3105,Zeppelinstr.,164-172
@@ -464,7 +464,7 @@ Wahlbezirk,Straße,Hausnummern
 3105,Geschw.-Scholl-Str.,22-36
 3105,Hans-Sachs-Str.,32-55
 3105,Im Park Sanssouci,alle
-3105,Lennestr.,"ung. 9-25, ung. 47-55,, ger. 10-32A, ger.46-54"
+3105,Lennestr.,"ung. 9-25, ung. 47-55, ger. 10-32A, ger.46-54"
 3105,Maulbeerallee,alle
 3105,Meistersingerstr.,"1,2"
 3105,Nansenstr.,6-10
@@ -568,10 +568,10 @@ Wahlbezirk,Straße,Hausnummern
 4103,Mittelstr.,alle
 4103,Am Kanal,1-6a
 4103,Behlertstr.,33-44
-4103,Berliner Str.,"ung. 21-25, ung. 141-155,, ger. 10-26A, ger. 140-152"
+4103,Berliner Str.,"ung. 21-25, ung. 141-155, ger. 10-26A, ger. 140-152"
 4103,Charlottenstr.,"70, 72, 79"
 4103,Gutenbergstr.,34-67
-4103,Hans-Thoma-Str.,"ung. 1-7, 11, 13, ger. 2-6A,, 12,14"
+4103,Hans-Thoma-Str.,"ung. 1-7, 11, 13, ger. 2-6A, 12,14"
 4103,Hebbelstr.,"1-1D, 2"
 4103,Holzmarktstr.,alle
 4103,Kurfürstenstr.,32-35
@@ -671,7 +671,7 @@ Wahlbezirk,Straße,Hausnummern
 4201,Eva-Laube-Weg,alle
 4201,Friedrich-List-Str.,"14,16"
 4201,Havelstr.,alle
-4201,Humboldtring,"ung. 1-17, ung. 29-79,, 12, 12A"
+4201,Humboldtring,"ung. 1-17, ung. 29-79, 12, 12A"
 4201,Lange Brücke,"1, 2"
 4202,Lotte-Pulewka-Str.,"ung. 5-7A, ger. 18-22"
 4202,Edisonallee,"ung. 1-19, ger. 2-6"
@@ -694,7 +694,7 @@ Wahlbezirk,Straße,Hausnummern
 4205,Am Stellwerk,alle
 4205,Friedhofsgasse,17
 4205,Friedrich-Engels-Str.,"1-16, 78-104"
-4205,Heinrich-Mann-Allee,"ung. 1-23A, ger. 2-24A,, 107"
+4205,Heinrich-Mann-Allee,"ung. 1-23A, ger. 2-24A, 107"
 4206,Zum Wasserturm,alle
 4206,Altstadtblick,alle
 4206,Am Magazin,alle
@@ -798,7 +798,7 @@ Wahlbezirk,Straße,Hausnummern
 5205,Tuchmacherstr.,"1-17, 34-51"
 5206,Weberplatz,1-19
 5206,Allee nach Glienicke,"2,4"
-5206,Alt Nowawes,"ger. 40-130,, ung. 93-107"
+5206,Alt Nowawes,"ger. 40-130, ung. 93-107"
 5206,Grenzstr.,alle
 5206,Jutestr.,alle
 5206,Karl-Liebknecht-Str.,90-99
@@ -905,7 +905,7 @@ Wahlbezirk,Straße,Hausnummern
 5305,Merkurstr.,alle
 5305,Paul-Neumann-Str.,55-97
 5306,Rosenstr.,ung. 27-55
-5306,August-Bebel-Str.,"16-27, ung. 77-89F,, ger. 68-88"
+5306,August-Bebel-Str.,"16-27, ung. 77-89F, ger. 68-88"
 5306,Dianastr.,ung. 1-21
 5306,Försterweg,alle
 5306,Heinz-Rühmann-Weg,alle
@@ -913,13 +913,13 @@ Wahlbezirk,Straße,Hausnummern
 5306,Marlene-Dietrich-Allee,"ung. 11-27, 20"
 5306,Prof.-Dr.-Helmert-Str.,alle
 5306,Rote-Kreuz-Str.,alle
-5306,Stahnsdorfer Str.,"ung. 77-129,, ger. 140-156C"
+5306,Stahnsdorfer Str.,"ung. 77-129, ger. 140-156C"
 5307,Steinstr.,"ung. 1-23, ger. 2-18"
 5307,Ahornstr.,alle
 5307,An den Windmühlen,ger. 2-28A
 5307,Beetzweg,alle
 5307,Biberweg,alle
-5307,Fritz-Zubeil-Str.,"ung. 1-23A, ger. 2-36,, ger.60-96"
+5307,Fritz-Zubeil-Str.,"ung. 1-23A, ger. 2-36, ger.60-96"
 5307,GA Glück Auf,alle
 5307,GA Grüner Winkel,alle
 5307,GA Uns genügts,alle
@@ -976,7 +976,7 @@ Wahlbezirk,Straße,Hausnummern
 6101,Leipziger Str.,19-50
 6101,Leiterstr.,alle
 6101,Luisenhof,alle
-6101,Michendorfer Chaussee,"1-5, ung. 19-115A,, ger. 8-114"
+6101,Michendorfer Chaussee,"1-5, ung. 19-115A, ger. 8-114"
 6101,Paetowstr.,alle
 6101,Templiner Str.,alle
 6101,Tornowstr.,alle
@@ -1098,7 +1098,7 @@ Wahlbezirk,Straße,Hausnummern
 6404,Bertolt-Brecht-Str.,alle
 6404,Brunnenallee,alle
 6404,Drewitzer Str.,"ung. 23-39A, 40, 40A"
-6404,Erich-Weinert-Str.,"1-8, 56-71,, ger. 72-100"
+6404,Erich-Weinert-Str.,"1-8, 56-71, ger. 72-100"
 6404,Friedrich-Wolf-Str.,1-8
 6404,Joh.-R.-Becher-Str.,29-53
 6501,Sophie-Alberti-Str.,alle
@@ -1132,12 +1132,12 @@ Wahlbezirk,Straße,Hausnummern
 6507,Moosglöckchenweg,ung. 1-27
 7101,Zum Teufelssee,ger. 6-48
 7101,Am Gehölz,alle
-7101,Bahnhofstr.,"1-42, ger. 124-126A,, 127"
+7101,Bahnhofstr.,"1-42, ger. 124-126A, 127"
 7101,Beethovenstr.,alle
 7101,GA Naturfreunde,alle
 7101,Gagarinstr.,ung. 1-7
-7101,Großbeerenstr.,"ung. 209 -261,, ger. 206-258"
-7101,Hans-Grade-Ring,"ung. 1-17, ger. 2-30,, ger. 60-70"
+7101,Großbeerenstr.,"ung. 209 -261, ger. 206-258"
+7101,Hans-Grade-Ring,"ung. 1-17, ger. 2-30, ger. 60-70"
 7101,Hubertusdamm,1-24A
 7101,In der Aue,"ung. 11-31A, ger. 8-36"
 7101,Lortzingstr.,alle
@@ -1163,7 +1163,7 @@ Wahlbezirk,Straße,Hausnummern
 7103,GA Wochenend,alle
 7103,Im Schäferfeld,alle
 7103,Katharinastr.,alle
-7103,Neuendorfer Str.,"ung. 35-41, 10, 12, 14,, ger. 16-42, ger. 2-12, ger. 18-40,"
+7103,Neuendorfer Str.,"ung. 35-41, 10, 12, 14, ger. 16-42, ger. 2-12, ger. 18-40,"
 7103,Pietschkerstr.,50
 7103,Schäferweg,alle
 7103,Turmstr.,"ung. 17-47, ger. 22-46"
@@ -1171,7 +1171,7 @@ Wahlbezirk,Straße,Hausnummern
 7104,Flotowstr.,ung. 1-35
 7104,Gluckstr.,alle
 7104,Großbeerenstr.,ger. 262-288
-7104,Hubertusdamm,"ung. 27-47,, ger. 24B-50B"
+7104,Hubertusdamm,"ung. 27-47, ger. 24B-50B"
 7104,In der Aue,"ung. 33-61, ger. 38-60"
 7104,M.-Bartholdy-Str.,ung. 3-47
 7104,Patrizierweg,"ung. 19-39, ger.18-58"
@@ -1183,7 +1183,7 @@ Wahlbezirk,Straße,Hausnummern
 7105,Hubertusdamm,ung. 49-79
 7105,Kohlhasenbrücker Str.,ger. 100-106
 7105,Patrizierweg,"ung. 43-69, ger. 62-92"
-7106,Steinstr.,"ung. 95-105,, ger. 44B-106"
+7106,Steinstr.,"ung. 95-105, ger. 44B-106"
 7106,Chopinstr.,alle
 7106,Galileistr.,ger. 2-10
 7106,Großbeerenstr.,ung. 265-279
@@ -1226,7 +1226,7 @@ Wahlbezirk,Straße,Hausnummern
 7113,Grotrianstr.,ger. 2-32
 7113,Jagdhausstr.,1-15
 7113,Kohlhasenbrücker Str.,"ung. 1-15C, ger. 2-36"
-7113,Otto-Haseloff-Str.,"ung. 17-23B,, ger. 16-22B"
+7113,Otto-Haseloff-Str.,"ung. 17-23B, ger. 16-22B"
 7113,Steinstr.,ger. 118-162
 7113,Waldhornweg,26-35A
 7201,Wildeberstr.,29-38C
@@ -1240,7 +1240,7 @@ Wahlbezirk,Straße,Hausnummern
 7201,Gerlachstr.,1-8
 7201,In den Neuen Höfen,alle
 7201,Kirchstr.,alle
-7201,Neuendorfer Str.,"ung. 1-13, ger. 2-8,, 10D, 12D, 14D,, ung. 15D-17D, 44-74"
+7201,Neuendorfer Str.,"ung. 1-13, ger. 2-8, 10D, 12D, 14D, ung. 15D-17D, 44-74"
 7201,Nuthedamm,2-30
 7201,Sternstr.,"1-18A, 63-82"
 7201,Trebbiner Str.,alle
@@ -1253,7 +1253,7 @@ Wahlbezirk,Straße,Hausnummern
 7202,Hans-Albers-Str.,alle
 7202,Konrad-Wolf-Allee,ger. 2-12
 7202,Sterncenter,alle
-7202,Sternstr.,"29A, 29B, ung. 39-53,, ger. 40-52A"
+7202,Sternstr.,"29A, 29B, ung. 39-53, ger. 40-52A"
 7203,Zum Kirchsteigfeld,"2,4"
 7203,Ernst-Lubitsch-Weg,"1-7, 8,10"
 7203,Friedrich-W.-Murnau-Str.,alle
@@ -1398,7 +1398,7 @@ Wahlbezirk,Straße,Hausnummern
 8403,Am Upstallgraben,alle
 8403,Am Weinberg,alle
 8403,An der Jubelitz,alle
-8403,Ketziner Str.,"ung. 15-53, ger. 4-34,, ung. 87-179"
+8403,Ketziner Str.,"ung. 15-53, ger. 4-34, ung. 87-179"
 8403,Kienhorststr.,"1A-3A, 5-8"
 8403,Marquardter Str. Ausbau,alle
 8403,Marquardter Str. Fahrland,5-17
@@ -1465,8 +1465,7 @@ Wahlbezirk,Straße,Hausnummern
 8601,Leo-Bauer-Str.,alle
 8601,Maly-Delschaft-Weg,alle
 8601,Margarethe-Gottliebe-Weg,alle
-8601,Potsdamer Chaussee,
-8601,Groß Glienicke,ung. 1-7A
+8601,Potsdamer Chaussee Groß Glienicke,ung. 1-7A
 8601,Rudi-Ball-Str.,alle
 8601,Seeburger Chaussee,alle
 8601,Triftweg,"7, 9"
@@ -1476,12 +1475,12 @@ Wahlbezirk,Straße,Hausnummern
 8602,Am Schlahn,alle
 8602,Am Seeblick,alle
 8602,Am Waldfrieden,alle
-8602,Bergstr.,"ung. 35-51,, ger. 40-60"
+8602,Bergstr.,"ung. 35-51, ger. 40-60"
 8602,Braumannweg,alle
 8602,Bullenwinkel,alle
 8602,Dohlenweg,alle
 8602,Forstallee,alle
-8602,Hechtsprung,"ung. 17-25,, ger. 20-26"
+8602,Hechtsprung,"ung. 17-25, ger. 20-26"
 8602,Im Hirschen,alle
 8602,Isoldestr.,29-46
 8602,Krampnitzer Weg,alle
@@ -1489,25 +1488,24 @@ Wahlbezirk,Straße,Hausnummern
 8602,Nibelungenstr.,alle
 8602,Parzivalstr.,"ung. 1-25, ger. 14-26"
 8602,Pilzweg,alle
-8602,Potsdamer Chaussee Groß,51
-8602,Glienicke,
+8602,Potsdamer Chaussee Groß Glienicke,51
 8602,Rehsprung,alle
-8602,Richard-Wagner-Str.,"ung. 19-41,, ger. 24-36"
-8602,Sacrower Allee,"1, 3, ung. 11-121,, ger. 88-120"
+8602,Richard-Wagner-Str.,"ung. 19-41, ger. 24-36"
+8602,Sacrower Allee,"1, 3, ung. 11-121, ger. 88-120"
 8602,Seepromenade,70-99
 8602,Tristanstr.,29-58
 8602,Waldweg,alle
 8603,Wendensteig,alle
 8603,Am Anger,alle
 8603,An der Sporthalle,alle
-8603,Bergstr.,"ung. 5-33,, ger.12-36"
+8603,Bergstr.,"ung. 5-33, ger.12-36"
 8603,Christophorusweg,alle
 8603,Ernst-Thälmann-Str.,alle
-8603,Hechtsprung,"ung. 1-13,, ger. 2-18"
+8603,Hechtsprung,"ung. 1-13, ger. 2-18"
 8603,Isoldestr.,1-28
 8603,Parzivalstr.,ger. 2-8
 8603,Ribbeckweg,alle
-8603,Richard-Wagner-Str.,"ung. 1-15,, ger. 2-22"
+8603,Richard-Wagner-Str.,"ung. 1-15, ger. 2-22"
 8603,Sacrower Allee,"2A-2B, ger. 6-84"
 8603,Seepromenade,1-68
 8603,St-Anna-Str.,alle
@@ -1521,8 +1519,7 @@ Wahlbezirk,Straße,Hausnummern
 8604,Güntherweg,alle
 8604,Hainbuchenweg,alle
 8604,Hermann-Krome-Weg,alle
-8604,Potsdamer Chaussee Groß,"ung. 15-31,"
-8604,Glienicke,ger. 2-124D
+8604,Potsdamer Chaussee Groß Glienicke,"ung. 15-31,ger. 2-124D"
 8604,Rotdornweg Groß Glienicke,alle
 8604,Sacrower Allee,"4, 5"
 8604,Schulzenlandweg,alle
