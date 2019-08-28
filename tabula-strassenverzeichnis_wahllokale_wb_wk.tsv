@@ -1,11 +1,8 @@
+Straßenverzeichnis mit Hausnummernbereichen und Wahllokalen nach Wahlbezirken
 Wahlbezirk 1101	WK 19
 Leibniz-Institut für Agrartechnik, Gästehaus des ATB	
 Max-Eyth-Allee 53	
 14469 Potsdam	
-Wahlbezirk 1301	WK 19
-Kita Firlefanz	
-Nedlitzer Holz 12a	
-14469 Potsdam	barrierefrei
 Am alten Dorf	alle
 Am Heineberg	alle
 Am Phloxgarten	alle
@@ -37,6 +34,41 @@ Schneiderweg	alle
 Schräger Weg	alle
 Verlängerte Amtsstr.	alle
 Werner-Nerlich-Bogen	alle
+Wahlbezirk 1102	WK 19
+Grundschule In Bornim (11)	
+Potsdamer Str. 90	
+14469 Potsdam	
+Am Großen Herzberg	alle
+Am Raubfang	1-12, 16
+Am Windmühlenberg	alle
+Amundsenstr.	ung. 13 A-27A
+Fasanenring	alle
+Florastr.	ung. 1-49, ger. 2-32
+GA Am Großen Herzberg	alle
+GA Am Pannenberg	alle
+GA Schloß Lindstedt	alle
+Gersthofweg	alle
+Golmer Chaussee	alle
+Gröbenstr.	alle
+Haselnussring	alle
+Heckenstr.	ger. 10-20
+Herzbergstr.	alle
+Hügelweg	ger. 2-74A
+Hugstr.	alle
+Lindstedter Chaussee	alle
+Mitschurinstr.	alle
+Pannenbergstr.	alle
+Pomonaring	alle
+Potsdamer Str.	35-108
+Rückertstr.	1-6, 35-40A
+Staudenweg	alle
+Walnussring	alle
+Windmühlenweg	alle
+Zum Weizenring	alle
+Wahlbezirk 1301	WK 19
+Kita Firlefanz	
+Nedlitzer Holz 12a	
+14469 Potsdam	barrierefrei
 Am Golfplatz	alle
 Am Vogelherd	alle
 Am Weißen See	alle
@@ -76,37 +108,6 @@ Ludwig-Boltzmann-Str.	2,4
 Neue Kirschallee	alle
 Potsdamer Str.	1-11
 Schulplatz	2A-6B
-Wahlbezirk 1102	WK 19
-Grundschule In Bornim (11)	
-Potsdamer Str. 90	
-14469 Potsdam	
-Am Großen Herzberg	alle
-Am Raubfang	1-12, 16
-Am Windmühlenberg	alle
-Amundsenstr.	ung. 13 A-27A
-Fasanenring	alle
-Florastr.	ung. 1-49, ger. 2-32
-GA Am Großen Herzberg	alle
-GA Am Pannenberg	alle
-GA Schloß Lindstedt	alle
-Gersthofweg	alle
-Golmer Chaussee	alle
-Gröbenstr.	alle
-Haselnussring	alle
-Heckenstr.	ger. 10-20
-Herzbergstr.	alle
-Hügelweg	ger. 2-74A
-Hugstr.	alle
-Lindstedter Chaussee	alle
-Mitschurinstr.	alle
-Pannenbergstr.	alle
-Pomonaring	alle
-Potsdamer Str.	35-108
-Rückertstr.	1-6, 35-40A
-Staudenweg	alle
-Walnussring	alle
-Windmühlenweg	alle
-Zum Weizenring	alle
 Wahlbezirk 1303	WK 19
 Schulplatz 1, Hort	
 Schulplatz 1	
@@ -133,10 +134,6 @@ Wahlbezirk 1304	WK 19
 Karl-Foerster-Schule (25/26)	
 Kirschallee 172	
 14469 Potsdam	barrierefrei
-Wahlbezirk 1307	WK 19
-Fachhochschule Potsdam	
-Kiepenheuerallee 5	
-14469 Potsdam	barrierefrei
 Amtsstr.	alle
 Amundsenstr.	1G, ger. 2-26A
 Apfelweg	alle
@@ -158,6 +155,46 @@ Thaerstr.	alle
 Zum Kurzen Feld	alle
 Zum Lausebusch	alle
 Zum Reiherstand	alle
+Wahlbezirk 1305	WK 19
+Grundschule im Bornstedter Feld (3)	
+Jakob-von-Gundling-Str. 25	
+14469 Potsdam	barrierefrei
+August-Bonness-Str.	ung. 9-17
+Carl-Christian-Horvath-Str.	ger. 2-14
+Erich-Mendelsohn-Allee	ger. 4-12
+Georg-Hermann-Allee	ung. 21-31
+Hannes-Meyer-Str.	alle
+Kiepenheuerallee	ung. 11-27
+Mies-van-der-Rohe-Str.	alle
+Peter-Behrens-Str.	alle
+Stechlinweg	alle
+Wahlbezirk 1306	WK 19
+Leonardo-da-Vinci-Gesamtschule (32)	
+Esplanade 3	
+14469 Potsdam	barrierefrei
+Erich-Mendelsohn-Allee	ung. 31-91
+Fintelmannstr.	ung. 1-17, ger. 2-14
+Fritz-Encke-Str.	7, ger. 8-22
+Gustav-Meyer-Str.	2
+Heinrich-Zeininger-Str.	alle
+Hermann-Göritz-Str.	alle
+Hermann-Mächtig-Str.	ger. 10-28
+	ung. 61-119,
+Hermann-Mattern-Promenade	ger. 32-112
+Herta-Hammerbacher-Str.	8-27
+Ludwig-Lesser-Str.	alle
+Luzernstr.	alle
+Max-Wundel-Str.	alle
+Melchior-Bauer-Str.	ung. 19-37
+Orville-Wright-Str.	ger. 44-98
+Paul-Engelhard-Str.	ung. 39-81B, ger. 44-80A
+Salzmannweg	alle
+Theodor-Echtermeyer-Str.	ung. 7-19, ger. 2-20
+Walter-Funcke-Str.	alle
+Wahlbezirk 1307	WK 19
+Fachhochschule Potsdam	
+Kiepenheuerallee 5	
+14469 Potsdam	barrierefrei
 Am Schragen	alle
 August-Bonness-Str.	unge. 1-7
 Bartholomäus-Neumann-Str.	alle
@@ -188,24 +225,7 @@ Pappelallee	14-20
 Paul-Engelhard-Str.	ung. 1-37, ger. 8-24
 Reiherweg	alle
 Schulplatz	1, 7
-Wahlbezirk 1305	WK 19
-Grundschule im Bornstedter Feld (3)	
-Jakob-von-Gundling-Str. 25	
-14469 Potsdam	barrierefrei
-August-Bonness-Str.	ung. 9-17
-Carl-Christian-Horvath-Str.	ger. 2-14
-Erich-Mendelsohn-Allee	ger. 4-12
-Georg-Hermann-Allee	ung. 21-31
-Hannes-Meyer-Str.	alle
-Kiepenheuerallee	ung. 11-27
-Mies-van-der-Rohe-Str.	alle
-Peter-Behrens-Str.	alle
-Stechlinweg	alle
 Wahlbezirk 1309	WK 19
-Leonardo-da-Vinci-Gesamtschule (32)	
-Esplanade 3	
-14469 Potsdam	barrierefrei
-Wahlbezirk 1306	WK 19
 Leonardo-da-Vinci-Gesamtschule (32)	
 Esplanade 3	
 14469 Potsdam	barrierefrei
@@ -216,7 +236,7 @@ Erich-Arendt-Str.	alle
 Erich-Mendelsohn-Allee	70
 Esplanade	alle
 Georg-Hermann-Allee	ung. 33-105,
-""	ger. 26-142
+	ger. 26-142
 Gertrud-Feiertag-Str.	alle
 Hans-Paasche-Str.	alle
 Hermann-Kasack-Str.	alle
@@ -226,33 +246,10 @@ Kiepenheuerallee	ger. 10-28
 Nedlitzer Str.	15A-27C
 Peter-Huchel-Str.	alle
 Reinhold-Schneider-Str.	alle
-Erich-Mendelsohn-Allee	ung. 31-91
-Fintelmannstr.	ung. 1-17, ger. 2-14
-Fritz-Encke-Str.	7, ger. 8-22
-Gustav-Meyer-Str.	2
-Heinrich-Zeininger-Str.	alle
-Hermann-Göritz-Str.	alle
-Hermann-Mächtig-Str.	ger. 10-28
-""	ung. 61-119,
-Hermann-Mattern-Promenade	ger. 32-112
-Herta-Hammerbacher-Str.	8-27
-Ludwig-Lesser-Str.	alle
-Luzernstr.	alle
-Max-Wundel-Str.	alle
-Melchior-Bauer-Str.	ung. 19-37
-Orville-Wright-Str.	ger. 44-98
-Paul-Engelhard-Str.	ung. 39-81B, ger. 44-80A
-Salzmannweg	alle
-Theodor-Echtermeyer-Str.	ung. 7-19, ger. 2-20
-Walter-Funcke-Str.	alle
 Wahlbezirk 1401	WK 19
 Schloß Sacrow	
 Krampnitzer Str. 33	
 14469 Potsdam	
-Weißdornweg	ger. 2-14
-Wildapfelweg	alle
-Wildbirnenweg	alle
-Wildkirschenweg	ung. 9-19
 Am Hämphorn	alle
 GA Anglerwiese	alle
 GA Meedehorn	alle
@@ -261,25 +258,10 @@ Kladower Str.	alle
 Krampnitzer Str.	alle
 Weinmeisterweg	alle
 Zur Anglerwiese	alle
-Wahlbezirk 1504	WK 19
-Grundschule Ludwig Renn (2)	
-Kaiser-Friedrich-Str. 15a	
-14469 Potsdam	barrierefrei
-Am alten Mörtelwerk	ger. 2-8a
-Am Sandberg	alle
-Am Tempelberg	alle
-Carl-Dähne-Str.	alle
-Kaiser-Friedrich-Str.	1-15, 140-148
-Weg nach Bornim	alle
-Zum Düsteren Teich	alle
 Wahlbezirk 1501	WK 19
 Kita Wilde Früchtchen	
 Wildbirnenweg 10	
 14469 Potsdam	barrierefrei
-Wahlbezirk 1601	WK 19
-BAUERei in Grube	
-Wublitzstr. 11	
-14469 Potsdam	
 Am alten Mörtelwerk	9-23
 Am Langen Berg	alle
 Baumhaselring	ung. 1-109, ger. 2-164A
@@ -295,6 +277,59 @@ Vogelbeerenweg	alle
 Wacholderstieg	alle
 Weißdornweg	ung. 1-21, ger. 16-32
 Wildkirschenweg	1-8, 10
+Wahlbezirk 1502	WK 19
+Grundschule Ludwig Renn (2)	
+Kaiser-Friedrich-Str. 15a	
+14469 Potsdam	barrierefrei
+Am Grünen Weg	alle
+Am Kirchblick	alle
+Birkenhügel	ger. 10-12A
+Ecksteinweg	alle
+Kaiser-Friedrich-Str.	96-135
+Wahlbezirk 1503	WK 19
+Kita Turmspatzen	
+Kaiser-Friedrich-Str. 32	
+14469 Potsdam	barrierefrei
+Altes Rad	alle
+Am alten Mörtelwerk	ung. 1-5
+Am Eichenhain	alle
+Baumhaselring	ung. 111-123,
+	ger. 166-198A
+Baumschulenweg	ung. 1-19, ger. 2-6,
+	ger. 8A-18
+Birkenhügel	1-6
+Brombeerstieg	alle
+Ehrenpfortenbergstr.	alle
+Eichenring	ung. 43-51, ger. 60-92
+Kahlenbergstr.	1-5
+Kaiser-Friedrich-Str.	15A-95
+Kuhforter Damm Eiche	alle
+Lindengrund	alle
+Lindstedter Str.	alle
+Mehlbeerenweg	ung. 1-7
+Rosenstieg	alle
+Roßkastanienstr.	ung. 17-61, ger. 10-28
+Siedlungsweg	alle
+Thujaweg	alle
+Weißdornweg	ger. 2-14
+Wildapfelweg	alle
+Wildbirnenweg	alle
+Wildkirschenweg	ung. 9-19
+Wahlbezirk 1504	WK 19
+Grundschule Ludwig Renn (2)	
+Kaiser-Friedrich-Str. 15a	
+14469 Potsdam	barrierefrei
+Am alten Mörtelwerk	ger. 2-8a
+Am Sandberg	alle
+Am Tempelberg	alle
+Carl-Dähne-Str.	alle
+Kaiser-Friedrich-Str.	1-15, 140-148
+Weg nach Bornim	alle
+Zum Düsteren Teich	alle
+Wahlbezirk 1601	WK 19
+BAUERei in Grube	
+Wublitzstr. 11	
+14469 Potsdam	
 Am Bahnhof	1-5
 Am Blinker	alle
 Am Konsumplatz	alle
@@ -322,40 +357,6 @@ Strandweg Grube	alle
 Vogelsang Grube	alle
 Wiesenrain	alle
 Wublitzstr.	alle
-Wahlbezirk 1502	WK 19
-Grundschule Ludwig Renn (2)	
-Kaiser-Friedrich-Str. 15a	
-14469 Potsdam	barrierefrei
-Am Grünen Weg	alle
-Am Kirchblick	alle
-Birkenhügel	ger. 10-12A
-Ecksteinweg	alle
-Kaiser-Friedrich-Str.	96-135
-Wahlbezirk 1503	WK 19
-Kita Turmspatzen	
-Kaiser-Friedrich-Str. 32	
-14469 Potsdam	barrierefrei
-Altes Rad	alle
-Am alten Mörtelwerk	ung. 1-5
-Am Eichenhain	alle
-Baumhaselring	ung. 111-123,
-""	ger. 166-198A
-Baumschulenweg	ung. 1-19, ger. 2-6,
-""	ger. 8A-18
-Birkenhügel	1-6
-Brombeerstieg	alle
-Ehrenpfortenbergstr.	alle
-Eichenring	ung. 43-51, ger. 60-92
-Kahlenbergstr.	1-5
-Kaiser-Friedrich-Str.	15A-95
-Kuhforter Damm Eiche	alle
-Lindengrund	alle
-Lindstedter Str.	alle
-Mehlbeerenweg	ung. 1-7
-Rosenstieg	alle
-Roßkastanienstr.	ung. 17-61, ger. 10-28
-Siedlungsweg	alle
-Thujaweg	alle
 Wahlbezirk 1701	WK 19
 Universität Potsdam, Komplex Golm	
 Karl-Liebknecht-Str. Golm 24-25	
@@ -379,10 +380,6 @@ Wahlbezirk 1702	WK 19
 ehemaliges Gemeindebüro Golm	
 Reiherbergstr. 31	
 14476 Potsdam	
-Wahlbezirk 2102	WK 21
-Treffpunkt Freizeit	
-Am Neuen Garten 64	
-14469 Potsdam	barrierefrei
 Am Golmer Weinberg	alle
 Am Mühlenberg	alle
 Am Zernsee	alle
@@ -402,6 +399,48 @@ Thomas-Müntzer-Str.	alle
 Weinmeisterstr.	alle
 Winkelhof	alle
 Zum Mühlenteich	alle
+Wahlbezirk 1703	WK 19
+Universität Potsdam, Komplex Golm	
+Karl-Liebknecht-Str. Golm 24-25	
+14476 Potsdam	barrierefrei
+Am Zachelsberg	alle
+An der Bahn	alle
+Eichenweg Golm	alle
+Elsternstr.	alle
+Golmer Fichten	alle
+Grasmückenring	alle
+In der Feldmark	ung. 1-37, ger. 2-28
+Taubenbogen	alle
+Zaunkönigweg	alle
+Zum Großen Herzberg	alle
+Wahlbezirk 2101	WK 21
+Evangelische Grundschule	
+Große Weinmeisterstr. 185	
+14467 Potsdam	barrierefrei
+Am Hang	alle
+Am Neuen Garten	9-52
+Am Pfingstberg	alle
+Am Reiherbusch	10-15
+Bertinistr.	alle
+Bertiniweg	alle
+Eichbergstr.	alle
+Fritz-von-der-Lancken-Str.	ger. 20-26
+GA Am Jungfernsee	alle
+GA Berg auf	alle
+GA Im Grund	alle
+GA Pfingstberg	alle
+Glumestr.	alle
+Große Weinmeisterstr.	1-48
+Höhenstr.	alle
+Langhansstr.	alle
+Leistikowstr.	alle
+Nedlitzer Str.	1-1D, 1F, 2-8
+Puschkinallee	18-21
+Vogelweide	alle
+Wahlbezirk 2102	WK 21
+Treffpunkt Freizeit	
+Am Neuen Garten 64	
+14469 Potsdam	barrierefrei
 Alleestr.	1-7
 Am Neuen Garten	1-8, 64
 Behlertstr.	4A-12
@@ -427,20 +466,6 @@ Nedlitzer Str.	1E
 Persiusstr.	alle
 Puschkinallee	1-17
 Russische Kolonie	alle
-Wahlbezirk 1703	WK 19
-Universität Potsdam, Komplex Golm	
-Karl-Liebknecht-Str. Golm 24-25	
-14476 Potsdam	barrierefrei
-Am Zachelsberg	alle
-An der Bahn	alle
-Eichenweg Golm	alle
-Elsternstr.	alle
-Golmer Fichten	alle
-Grasmückenring	alle
-In der Feldmark	ung. 1-37, ger. 2-28
-Taubenbogen	alle
-Zaunkönigweg	alle
-Zum Großen Herzberg	alle
 Wahlbezirk 2104	WK 21
 Leonardo-da-Vinci-Gesamtschule (32)	
 Esplanade 3	
@@ -458,30 +483,6 @@ Hermann-Weyl-Str.	alle
 Konrad-Zuse-Ring	alle
 Nedlitzer Str.	8A-14, 100
 Zum Exerzierhaus	alle
-Wahlbezirk 2101	WK 21
-Evangelische Grundschule	
-Große Weinmeisterstr. 185	
-14467 Potsdam	barrierefrei
-Am Hang	alle
-Am Neuen Garten	9-52
-Am Pfingstberg	alle
-Am Reiherbusch	10-15
-Bertinistr.	alle
-Bertiniweg	alle
-Eichbergstr.	alle
-Fritz-von-der-Lancken-Str.	ger. 20-26
-GA Am Jungfernsee	alle
-GA Berg auf	alle
-GA Im Grund	alle
-GA Pfingstberg	alle
-Glumestr.	alle
-Große Weinmeisterstr.	1-48
-Höhenstr.	alle
-Langhansstr.	alle
-Leistikowstr.	alle
-Nedlitzer Str.	1-1D, 1F, 2-8
-Puschkinallee	18-21
-Vogelweide	alle
 Wahlbezirk 2201	WK 21
 Oberstufenzentrum I Technik	
 Jägerallee 23a	
@@ -502,10 +503,6 @@ Wahlbezirk 2202	WK 21
 Oberstufenzentrum I Technik	
 Jägerallee 23a	
 14469 Potsdam	barrierefrei
-Wahlbezirk 3102	WK 21
-Käthe-Kollwitz-Oberschule (13)	
-Clara-Zetkin-Str. 11	
-14471 Potsdam	
 An den Gärten	alle
 Brentanoweg	alle
 Gregor-Mendel-Str.	1-16, 24-44
@@ -518,27 +515,7 @@ Tieckstr.	alle
 Ulanenweg	alle
 Voltaireweg	alle
 Weinbergstr.	1-19
-Feuerbachstr.	1-13, 34-43
-Lennestr.	59-80, 85
-Sellostr.	1-15A
-Zeppelinstr.	7-27
-Zimmerstr.	12-12C
-""	
-Wahlbezirk 3103	WK 21
-Käthe-Kollwitz-Oberschule (13)	
-Clara-Zetkin-Str. 11	
-14471 Potsdam	
-Auf dem Kiewitt	1-3
-Clara-Zetkin-Str.	1-13, 21-31
-Feuerbachstr.	31A, 32, 33
-Geschw.-Scholl-Str.	1-7A, 88-97
-Meistersingerstr.	19, 20
-Nansenstr.	1-5B
-Sellostr.	20-30
-Stiftstr.	alle
-Zeppelinstr.	28-33, ger. 146-162,
-""	ung. 147-163A
-Wahlbezirk 2301	WK 2
+Wahlbezirk 2301	WK 21
 Johanna-Just-Oberstufenzentrum (III)	
 Berliner Str.114	
 14467 Potsdam	barrierefrei
@@ -553,21 +530,10 @@ Rembrandtstr.	alle
 Schwanenallee	alle
 Seestr.	11-21
 Tizianstr.	alle
-Wahlbezirk 3104	WK 21
-"Begegnungsstätte VS ""Auf dem Kiewitt"""	
-Zeppelinstr. 163a	
-14471 Potsdam	barrierefrei
-Auf dem Kiewitt	20-44
-Breite Str.	ger. 24-28
-Zeppelinstr.	164-172
-Wahlbezirk 2302	WK 2
+Wahlbezirk 2302	WK 21
 Johanna-Just-Oberstufenzentrum (III)	
 Berliner Str.114	
 14467 Potsdam	barrierefrei
-Wahlbezirk 3105	WK 21
-"Kindertagesstätte ""Baumschule"""	
-Geschw.-Scholl-Str. 33b	
-14471 Potsdam	barrierefrei
 Behlertstr.	1-4, 45, 45A
 Berliner Str.	26B-42, 113-136A
 Dürerstr.	alle
@@ -579,23 +545,6 @@ Otto-Nagel-Str.	alle
 Rubensstr.	alle
 Schiffbauergasse	alle
 Seestr.	2-10, 22-46
-Am Grünen Gitter	2,3,6-11
-Am Neuen Palais	alle
-An der Orangerie	2-5
-Clara-Zetkin-Str.	15-20
-Feuerbachstr.	14-31
-GA Hans-Sachs-Str.	alle
-GA Klein Sanssouci	alle
-Geschw.-Scholl-Str.	22-36
-Hans-Sachs-Str.	32-55
-Im Park Sanssouci	alle
-Lennestr.	ung. 9-25, ung. 47-55,
-""	ger. 10-32A, ger.46-54
-Maulbeerallee	alle
-Meistersingerstr.	1,2
-Nansenstr.	6-10
-Sellostr.	15B-19
-Zur Historischen Mühle	alle
 Wahlbezirk 3101	WK 21
 Voltaire-Gesamtschule (9)	
 Lindenstr. 32	
@@ -607,9 +556,61 @@ Lennestr.	1-8, 81-84
 Luisenplatz	alle
 Schopenhauerstr.	23-45
 Zeppelinstr.	1-6, ung. 173-189,
-""	ger. 174-178
+	ger. 174-178
 Zimmerstr.	ung. 1-15, ger. 2-10,
-""	14, 14A
+	14, 14A
+Wahlbezirk 3102	WK 21
+Käthe-Kollwitz-Oberschule (13)	
+Clara-Zetkin-Str. 11	
+14471 Potsdam	
+Feuerbachstr.	1-13, 34-43
+Lennestr.	59-80, 85
+Sellostr.	1-15A
+Zeppelinstr.	7-27
+Zimmerstr.	12-12C
+	
+Wahlbezirk 3103	WK 21
+Käthe-Kollwitz-Oberschule (13)	
+Clara-Zetkin-Str. 11	
+14471 Potsdam	
+Auf dem Kiewitt	1-3
+Clara-Zetkin-Str.	1-13, 21-31
+Feuerbachstr.	31A, 32, 33
+Geschw.-Scholl-Str.	1-7A, 88-97
+Meistersingerstr.	19, 20
+Nansenstr.	1-5B
+Sellostr.	20-30
+Stiftstr.	alle
+Zeppelinstr.	28-33, ger. 146-162,
+	ung. 147-163A
+Wahlbezirk 3104	WK 21
+"Begegnungsstätte VS ""Auf dem Kiewitt"""	
+Zeppelinstr. 163a	
+14471 Potsdam	barrierefrei
+Auf dem Kiewitt	20-44
+Breite Str.	ger. 24-28
+Zeppelinstr.	164-172
+Wahlbezirk 3105	WK 21
+"Kindertagesstätte ""Baumschule"""	
+Geschw.-Scholl-Str. 33b	
+14471 Potsdam	barrierefrei
+Am Grünen Gitter	2,3,6-11
+Am Neuen Palais	alle
+An der Orangerie	2-5
+Clara-Zetkin-Str.	15-20
+Feuerbachstr.	14-31
+GA Hans-Sachs-Str.	alle
+GA Klein Sanssouci	alle
+Geschw.-Scholl-Str.	22-36
+Hans-Sachs-Str.	32-55
+Im Park Sanssouci	alle
+Lennestr.	ung. 9-25, ung. 47-55,
+	ger. 10-32A, ger.46-54
+Maulbeerallee	alle
+Meistersingerstr.	1,2
+Nansenstr.	6-10
+Sellostr.	15B-19
+Zur Historischen Mühle	alle
 Wahlbezirk 3106	WK 21
 Gerhart-Hauptmann-Grundschule (12)	
 Carl-v.-Ossietzky-Str. 37/38	
@@ -624,16 +625,68 @@ Wahlbezirk 3107	WK 21
 AWO Schillertreff	
 Schillerplatz 20	
 14471 Potsdam	barrierefrei
-Wahlbezirk 3204	WK 21
-Gymnasium Potsdam West (5)	
-Haeckelstr. 72	
-14471 Potsdam	barrierefrei
 Auf dem Kiewitt	6-15
 Grillparzerstr.	alle
 Schillerplatz	alle
 Schillerstr.	alle
 Wielandstr.	alle
 Zeppelinstr.	138-145
+Wahlbezirk 3108	WK 21
+Gerhart-Hauptmann-Grundschule (12)	
+Carl-v.-Ossietzky-Str. 37/38	
+14471 Potsdam	
+Carl-v.-Ossietzky-Str.	22-40
+Geschw.-Scholl-Str.	15-21
+Hans-Sachs-Str.	1-27
+Lennestr.	33-42
+Meistersingerstr.	7-15A
+Wahlbezirk 3201	WK 21
+Zeppelin-Grundschule (23)	
+Haeckelstr. 74	
+14471 Potsdam	barrierefrei
+Feldweg	alle
+Fichtestr.	alle
+GA Alte Mühle	alle
+Geschw.-Scholl-Str.	37-72F
+Kantstr.	1-9, 20-33
+Kastanienallee	1-5, 28-40
+Maybachstr.	6-10
+Mittelweg	alle
+Werderscher Weg	1-1B, 2, 2A
+Zeppelinstr.	46-56
+	
+Wahlbezirk 3202	WK 21
+Zeppelin-Grundschule (23)	
+Haeckelstr. 74	
+14471 Potsdam	barrierefrei
+Haeckelstr.	ung. 31-59, ger. 30-74
+Im Bogen	19, 20, 21
+Kantstr.	10-15D
+Kastanienallee	6-11
+Knobelsdorffstr.	10,12
+Maybachstr.	1A-5
+Roseggerstr.	ung. 1-29
+Stormstr.	53
+Zeppelinstr.	68H-M
+Wahlbezirk 3203	WK 21
+Gymnasium Potsdam West (5)	
+Haeckelstr. 72	
+14471 Potsdam	barrierefrei
+Am Luftschiffhafen	alle
+An der Pirschheide	11,13, ger. 20-30
+Haeckelstr.	1-13
+Havelwelle	alle
+Kantstr.	16A-19
+Kastanienallee	12-27
+Knobelsdorffstr.	1-3
+Mertz-von-Quirnheim-Str.	alle
+Olympischer Weg	alle
+Roseggerstr.	ger. 2-24
+Zeppelinstr.	57-62, 110-136
+Wahlbezirk 3204	WK 21
+Gymnasium Potsdam West (5)	
+Haeckelstr. 72	
+14471 Potsdam	barrierefrei
 Im Bogen	22-28
 Knobelsdorffstr.	ung. 5-47, 6, 8
 Stormstr.	1-52
@@ -642,10 +695,6 @@ Wahlbezirk 3205	WK 21
 Montessori-Oberschule (22)	
 Schlüterstr. 2-4	
 14471 Potsdam	barrierefrei
-Wahlbezirk 3108	WK 21
-Gerhart-Hauptmann-Grundschule (12)	
-Carl-v.-Ossietzky-Str. 37/38	
-14471 Potsdam	
 Am Wildpark	alle
 An der Pirschheide	1, 41, ger. 36-42
 Elisenweg	alle
@@ -672,43 +721,10 @@ Werderscher Damm	alle
 Werderscher Weg	3, 2C
 Zeppelinstr.	84-111
 Zum Bahnhof Pirschheide	alle
-Carl-v.-Ossietzky-Str.	22-40
-Geschw.-Scholl-Str.	15-21
-Hans-Sachs-Str.	1-27
-Lennestr.	33-42
-Meistersingerstr.	7-15A
-Wahlbezirk 3201	WK 21
-Zeppelin-Grundschule (23)	
-Haeckelstr. 74	
-14471 Potsdam	barrierefrei
-Feldweg	alle
-Fichtestr.	alle
-GA Alte Mühle	alle
-Geschw.-Scholl-Str.	37-72F
-Kantstr.	1-9, 20-33
-Kastanienallee	1-5, 28-40
-Maybachstr.	6-10
-Mittelweg	alle
-Werderscher Weg	1-1B, 2, 2A
-Zeppelinstr.	46-56
-""	
-Wahlbezirk 3202	WK 21
-Zeppelin-Grundschule (23)	
-Haeckelstr. 74	
-14471 Potsdam	barrierefrei
 Wahlbezirk 4101	WK 21
 Einstein-Gymnasium (54)	
 Hegelallee 30	
 14467 Potsdam	barrierefrei
-Haeckelstr.	ung. 31-59, ger. 30-74
-Im Bogen	19, 20, 21
-Kantstr.	10-15D
-Kastanienallee	6-11
-Knobelsdorffstr.	10,12
-Maybachstr.	1A-5
-Roseggerstr.	ung. 1-29
-Stormstr.	53
-Zeppelinstr.	68H-M
 Gutenbergstr.	103-115
 Hegelallee	11-43
 Hermann-Elflein-Str.	1-7, 33-38
@@ -717,26 +733,11 @@ Lindenstr.	1-9
 Mauerstr.	alle
 Schopenhauerstr.	19-22
 Weinbergstr.	20-43
-Wahlbezirk 3203	WK 21
-Gymnasium Potsdam West (5)	
-Haeckelstr. 72	
-14471 Potsdam	barrierefrei
-""	
+	
 Wahlbezirk 4102	WK 21
 Hermann-von-Helmholtz-Gymnasium (4)	
 Kurfürstenstr.	
 14467 Potsdam	barrierefrei
-Am Luftschiffhafen	alle
-An der Pirschheide	11,13, ger. 20-30
-Haeckelstr.	1-13
-Havelwelle	alle
-Kantstr.	16A-19
-Kastanienallee	12-27
-Knobelsdorffstr.	1-3
-Mertz-von-Quirnheim-Str.	alle
-Olympischer Weg	alle
-Roseggerstr.	ger. 2-24
-Zeppelinstr.	57-62, 110-136
 Am Palais Lichtenau	alle
 Behlertstr.	13-32
 Benkertstr.	alle
@@ -752,49 +753,23 @@ Wahlbezirk 4103	WK 21
 Hermann-von-Helmholtz-Gymnasium (4)	
 Kurfürstenstr. 53	
 14467 Potsdam	barrierefrei
-Hoffbauerstr.	alle
-Humboldtstr.	alle
-Joliot-Curie-Str.	alle
-Lange Brücke	6
-Neue Plantage	alle
-Obere Planitz	alle
-Otto-Braun-Platz	alle
-Schloßstr.	alle
-Schwertfegerstr.	alle
-Siefertstr.	alle
-Untere Planitz	alle
-Wall am Kiez	alle
-Werner-Seelenbinder-Str.	alle
-Yorckstr.	17-27
 Am Kanal	1-6a
 Behlertstr.	33-44
 Berliner Str.	ung. 21-25, ung. 141-155,
-""	ger. 10-26A, ger. 140-152
+	ger. 10-26A, ger. 140-152
 Charlottenstr.	70, 72, 79
 Gutenbergstr.	34-67
 Hans-Thoma-Str.	ung. 1-7, 11, 13, ger. 2-6A,
-""	12,14
+	12,14
 Hebbelstr.	1-1D, 2
 Holzmarktstr.	alle
 Kurfürstenstr.	32-35
 Leiblstr.	3-12
 Türkstr.	alle
-Wahlbezirk 4107	WK 21
-Rosa-Luxemburg-Schule (19)	
-Burgstr. 23a	
-14467 Potsdam	barrierefrei
 Wahlbezirk 4104	WK 21
 Voltaire-Gesamtschule (9)	
 Lindenstr. 32	
 14467 Potsdam	
-Am Kanal	54-74
-Brauerstr.	4-7
-Burgstr.	alle
-Eltesterstr.	alle
-Freundschaftsinsel	alle
-Große Fischerstr.	alle
-Heilig-Geist-Str.	alle
-Kleine Fischerstr.	alle
 Brandenburger Str.	1-14
 Breite Str.	7-23
 Charlottenstr.	1-15, 116-128
@@ -804,36 +779,10 @@ Hermann-Elflein-Str.	15-24
 Kiezstr.	alle
 Lindenstr.	17-34A
 Schopenhauerstr.	5-13
-Wahlbezirk 4108 WK 21
-"Schule des Zweiten Bildungsweges ""Heinrich von Kleist"""
-Friedrich-Ebert-Str. 17
-14467 Potsdam barrierefrei
 Wahlbezirk 4105	WK 21
 "Grundschule ""Max Dortu"" (8)"	
 Dortustr. 28/29	
 14467 Potsdam	
-Brandenburger Str.	48-72
-Dortustr.	1-17, 58-74
-Friedrich-Ebert-Str.	72-92
-Gutenbergstr.	1-25, 87-102
-Hegelallee	1-10, 44-57
-Helene-Lange-Str.	10A-19
-Hermann-Elflein-Str.	8-14, 25-31
-Jägerallee	1-16
-Jägerstr.	1-16, 33-42
-Lindenstr.	11-16, 52-66
-Schopenhauerstr.	14-18
-Am Bassin	alle
-Am Kanal	7-18
-Brandenburger Str.	28A-47A
-Charlottenstr.	40-93
-Französische Str.	alle
-Friedrich-Ebert-Str.	8-19, 93-104
-Gutenbergstr.	26-32
-Im Französischen Quartier	alle
-Jägerstr.	22-32
-Platz der Einheit	alle
-Posthofstr.	alle
 Bäckerstr.	alle
 Brandenburger Str.	25-28
 Charlottenstr.	16-34, 94-115
@@ -864,6 +813,58 @@ Dortustr.	45A, 46, 46A
 Friedrich-Ebert-Str.	4-7, 116-125
 GA Hinzenberg	alle
 H.-v.-Tresckow-Str.	alle
+Hoffbauerstr.	alle
+Humboldtstr.	alle
+Joliot-Curie-Str.	alle
+Lange Brücke	6
+Neue Plantage	alle
+Obere Planitz	alle
+Otto-Braun-Platz	alle
+Schloßstr.	alle
+Schwertfegerstr.	alle
+Siefertstr.	alle
+Untere Planitz	alle
+Wall am Kiez	alle
+Werner-Seelenbinder-Str.	alle
+Yorckstr.	17-27
+Wahlbezirk 4107	WK 21
+Rosa-Luxemburg-Schule (19)	
+Burgstr. 23a	
+4467 Potsdam	barrierefrei
+Am Kanal	54-74
+Brauerstr.	4-7
+Burgstr.	alle
+Eltesterstr.	alle
+Freundschaftsinsel	alle
+Große Fischerstr.	alle
+Heilig-Geist-Str.	alle
+Kleine Fischerstr.	alle
+Wahlbezirk 4108 WK 21
+"Schule des Zweiten Bildungsweges ""Heinrich von Kleist"""
+Friedrich-Ebert-Str. 17
+14467 Potsdam barrierefrei
+Brandenburger Str.	48-72
+Dortustr.	1-17, 58-74
+Friedrich-Ebert-Str.	72-92
+Gutenbergstr.	1-25, 87-102
+Hegelallee	1-10, 44-57
+Helene-Lange-Str.	10A-19
+Hermann-Elflein-Str.	8-14, 25-31
+Jägerallee	1-16
+Jägerstr.	1-16, 33-42
+Lindenstr.	11-16, 52-66
+Schopenhauerstr.	14-18
+Am Bassin	alle
+Am Kanal	7-18
+Brandenburger Str.	28A-47A
+Charlottenstr.	40-93
+Französische Str.	alle
+Friedrich-Ebert-Str.	8-19, 93-104
+Gutenbergstr.	26-32
+Im Französischen Quartier	alle
+Jägerstr.	22-32
+Platz der Einheit	alle
+Posthofstr.	alle
 ""
 Wahlbezirk 4109 WK 21
 "Schule des Zweiten Bildungsweges ""Heinrich von Kleist"""
@@ -877,11 +878,6 @@ Französische Str.	alle
 Friedrich-Ebert-Str.	8-19, 93-104
 Gutenbergstr.	26-32
 Im Französischen Quartier	alle
-An der Kornmühle	alle
-An der Lokremise	alle
-Friedrich-W.-Boelcke-Str.	alle
-Leipziger Str.	1-12
-Zur Königlichen Hofbrauerei	alle
 Jägerstr.	22-32
 Platz der Einheit	alle
 Posthofstr.	alle
@@ -889,18 +885,69 @@ Wahlbezirk 4201	WK 22
 Grundschule am Humboldtring (37)	
 Humboldtring 15	
 14473 Potsdam	barrierefrei
-Wahlbezirk 4207	WK 22
-Comenius-Schule (53)	
-Brauhausberg 10	
-14473 Potsdam	barrierefrei
 Babelsberger Str.	alle
 Eva-Laube-Weg	alle
 Friedrich-List-Str.	14,16
 Havelstr.	alle
 Humboldtring	ung. 1-17, ung. 29-79,
-""	12, 12A
+	12, 12A
 Lange Brücke	1, 2
 Lotte-Pulewka-Str.	ung. 5-7A, ger. 18-22
+Wahlbezirk 4202	WK 22
+Grundschule am Humboldtring (37)	
+Humboldtring 15	
+14473 Potsdam	barrierefrei
+Edisonallee	ung. 1-19, ger. 2-6
+Hans-Marchwitza-Ring	ung. 31-51, ger. 40-54
+Humboldtring	ung. 19-27, ger. 32-120
+Wahlbezirk 4203	WK 22
+Gesamtschule Peter Joseph Lenné (38)	
+Humboldtring 17	
+14473 Potsdam	barrierefrei
+Edisonallee	ger. 10-18
+Friedrich-List-Str.	8
+Hans-Marchwitza-Ring	ung. 7-29, ger. 8-22
+Karl-Foerster-Str.	alle
+Lotte-Pulewka-Str.	ung. 23-63
+Max-Volmer-Str.	1-3
+Wiesenstr.	ung. 1-7, 38, 40
+Wahlbezirk 4204	WK 22
+Gesamtschule Peter Joseph Lenné (38)	
+Humboldtring 17	
+14473 Potsdam	barrierefrei
+Hans-Marchwitza-Ring	1, 3, ger. 2-6, ung. 53-55
+Humboldtring	ger. 2-10, ger. 14-30
+Lotte-Pulewka-Str.	ung. 11-21, ger. 4-8
+Max-Volmer-Str.	4-17
+Wiesenstr.	ung. 11-17, ger. 8-36
+Wahlbezirk 4205	WK 22
+Haus der Wirtschaft	
+Schlaatzweg 1	
+14473 Potsdam	barrierefrei
+Albert-Einstein-Str.	ung. 1-25
+Altes Bahnwerk	alle
+Am Stellwerk	alle
+Friedhofsgasse	17
+Friedrich-Engels-Str.	1-16, 78-104
+Heinrich-Mann-Allee	ung. 1-23A, ger. 2-24A,
+	107
+Zum Wasserturm	alle
+Wahlbezirk 4206	WK 22
+Comenius-Schule (53)	
+Brauhausberg 10	
+14473 Potsdam	barrierefrei
+Altstadtblick	alle
+Am Magazin	alle
+Am Speicher	alle
+An der Kornmühle	alle
+An der Lokremise	alle
+Friedrich-W.-Boelcke-Str.	alle
+Leipziger Str.	1-12
+Zur Königlichen Hofbrauerei	alle
+Wahlbezirk 4207	WK 22
+Comenius-Schule (53)	
+Brauhausberg 10	
+14473 Potsdam	barrierefrei
 Albert-Einstein-Str.	ger. 2-24
 Am Havelblick	alle
 Brauhausberg	ung. 1-15
@@ -908,18 +955,11 @@ Brauhausberg	ung. 25-35, ger. 24-36
 Finkenweg	1-4, 11-16
 Leipziger Str.	51-66
 Max-Planck-Str.	alle
-Wahlbezirk 4202	WK 22
-Grundschule am Humboldtring (37)	
-Humboldtring 15	
-14473 Potsdam	barrierefrei
-""	
+	
 Wahlbezirk 5201	WK 21
 Ministerium für Bildung, Jugend und Sport, Studienseminar Potsdam	
 Karl-Marx-Str. 33-34	
 14482 Potsdam	barrierefrei
-Edisonallee	ung. 1-19, ger. 2-6
-Hans-Marchwitza-Ring	ung. 31-51, ger. 40-54
-Humboldtring	ung. 19-27, ger. 32-120
 Allee nach Glienicke	ung. 21-85
 Am Böttcherberg	alle
 Am Waldrand	alle
@@ -946,43 +986,11 @@ Waldmüllerstr.	alle
 Wannseestr.	alle
 Wasserstr.	alle
 Wilhelm-Leuschner-Str.	alle
-Wahlbezirk 4203	WK 22
-Gesamtschule Peter Joseph Lenné (38)	
-Humboldtring 17	
-14473 Potsdam	barrierefrei
-Edisonallee	ger. 10-18
-Friedrich-List-Str.	8
-Hans-Marchwitza-Ring	ung. 7-29, ger. 8-22
-Karl-Foerster-Str.	alle
-Lotte-Pulewka-Str.	ung. 23-63
-Max-Volmer-Str.	1-3
-Wiesenstr.	ung. 1-7, 38, 40
-Wahlbezirk 4204	WK 22
-Gesamtschule Peter Joseph Lenné (38)	
-Humboldtring 17	
-14473 Potsdam	barrierefrei
-Hans-Marchwitza-Ring	1, 3, ger. 2-6, ung. 53-55
-Humboldtring	ger. 2-10, ger. 14-30
-Lotte-Pulewka-Str.	ung. 11-21, ger. 4-8
-Max-Volmer-Str.	4-17
-Wiesenstr.	ung. 11-17, ger. 8-36
-Wahlbezirk 4205	WK 22
-Haus der Wirtschaft	
-Schlaatzweg 1	
-14473 Potsdam	barrierefrei
-""	
+	
 Wahlbezirk 5202	WK 21
 Schule am Griebnitzsee (33)	
 Domstr. 14b	
 14482 Potsdam	barrierefrei
-Albert-Einstein-Str.	ung. 1-25
-Altes Bahnwerk	alle
-Am Stellwerk	alle
-Friedhofsgasse	17
-Friedrich-Engels-Str.	1-16, 78-104
-Heinrich-Mann-Allee	ung. 1-23A, ger. 2-24A,
-""	107
-Zum Wasserturm	alle
 August-Bier-Str.	alle
 Baldurstr.	alle
 Behringstr.	ung. 31-91, ger. 26-52
@@ -997,37 +1005,14 @@ Herthastr.	alle
 Johann-Strauß-Platz	alle
 Karl-Marx-Str.	6-25, 40-62
 Robert-Koch-Str.	alle
-Wahlbezirk 4206	WK 22
-Comenius-Schule (53)	
-Brauhausberg 10	
-14473 Potsdam	barrierefrei
-Altstadtblick	alle
-Am Magazin	alle
-Am Speicher	alle
 Rosa-Luxemburg-Str.	1-12, 26-41
 Sauerbruchstr.	alle
 Scheffelstr.	ung. 19-27
 Virchowstr.	2-53
-Wahlbezirk 5206	WK 21
-"Grundschule ""Bruno H. Bürgel"" (16)"	
-Karl-Liebknecht-Str. 29	
-14482 Potsdam	
 Wahlbezirk 5203	WK 21
 Schule am Griebnitzsee (33)	
 Domstr. 14b	
 14482 Potsdam	barrierefrei
-Allee nach Glienicke	2,4
-Alt Nowawes	ger. 40-130,
-""	ung. 93-107
-Grenzstr.	alle
-Jutestr.	alle
-Karl-Liebknecht-Str.	90-99
-Mühlenstr.	4-23
-Neue Str.	1-7
-Park Babelsberg	1-11
-Spindelstr.	1-5
-Tuchmacherstr.	20-32
-Wollestr.	alle
 August-Bebel-Str.	2
 Domstr.	ger. 2-58
 Espengrund	alle
@@ -1046,6 +1031,54 @@ Rud.-Breitscheid-Str.	112-236A
 Stubenrauchstr.	alle
 Uhlandstr.	14-25A
 Virchowstr.	1,3,5
+Wahlbezirk 5204	WK 21
+"Evangelische Kita ""Comeniuskindergarten"""	
+Wichgrafstr. 27	
+14482 Potsdam	barrierefrei
+Bendastr.	7-12
+GA Birkenhain	alle
+Goethestr.	ung. 3-49
+Karl-Gruhl-Str.	17-42
+Kreuzstr.	1-7B
+Lessingstr.	1-28
+Müllerstr.	4-7
+Plantagenhof	alle
+Plantagenplatz	alle
+Plantagenstr.	3-20, 30-33F
+Rud.-Breitscheid-Str.	57-85A
+Turnstr.	2-14
+Uhlandstr.	1-12A
+Wichgrafstr.	alle
+Wahlbezirk 5205	WK 21
+"Grundschule ""Bruno H. Bürgel"" (16)"	
+Karl-Liebknecht-Str. 29	
+14482 Potsdam	
+Alt Nowawes	ung. 41 -89
+Garnstr.	ung. 23-39, ger. 24-36A
+Karl-Gruhl-Str.	1-16
+Karl-Liebknecht-Str.	11-38, 100-126
+Kreuzstr.	8-15
+Lutherstr.	alle
+Schornsteinfegergasse	6-14
+Spindelstr.	5A-12
+Tuchmacherstr.	1-17, 34-51
+Weberplatz	1-19
+Wahlbezirk 5206	WK 21
+"Grundschule ""Bruno H. Bürgel"" (16)"	
+Karl-Liebknecht-Str. 29	
+14482 Potsdam	
+Allee nach Glienicke	2,4
+Alt Nowawes	ger. 40-130,
+	ung. 93-107
+Grenzstr.	alle
+Jutestr.	alle
+Karl-Liebknecht-Str.	90-99
+Mühlenstr.	4-23
+Neue Str.	1-7
+Park Babelsberg	1-11
+Spindelstr.	1-5
+Tuchmacherstr.	20-32
+Wollestr.	alle
 Wahlbezirk 5207	WK 21
 Oberlinhaus - Mutterhaus	
 Rud.-Breitscheid-Str. 24	
@@ -1067,24 +1100,6 @@ Schornsteinfegergasse	1-5
 Theodor-Hoppe-Weg	alle
 Voltastr.	alle
 Weberplatz	20-29
-Wahlbezirk 5204	WK 21
-"Evangelische Kita ""Comeniuskindergarten"""	
-Wichgrafstr. 27	
-14482 Potsdam	barrierefrei
-Bendastr.	7-12
-GA Birkenhain	alle
-Goethestr.	ung. 3-49
-Karl-Gruhl-Str.	17-42
-Kreuzstr.	1-7B
-Lessingstr.	1-28
-Müllerstr.	4-7
-Plantagenhof	alle
-Plantagenplatz	alle
-Plantagenstr.	3-20, 30-33F
-Rud.-Breitscheid-Str.	57-85A
-Turnstr.	2-14
-Uhlandstr.	1-12A
-Wichgrafstr.	alle
 Wahlbezirk 5208	WK 21
 Katholische Kirche St. Antonius, Pfarrsaal	
 Plantagenstr. 23/24	
@@ -1112,29 +1127,11 @@ Plantagenstr.	21-26
 Scheffelstr.	ger. 20-42
 Semmelweisstr.	alle
 Turnstr.	15-51
-Wahlbezirk 5205	WK 21
-"Grundschule ""Bruno H. Bürgel"" (16)"	
-Karl-Liebknecht-Str. 29	
-14482 Potsdam	
-Alt Nowawes	ung. 41 -89
-Garnstr.	ung. 23-39, ger. 24-36A
-Karl-Gruhl-Str.	1-16
-Karl-Liebknecht-Str.	11-38, 100-126
-Kreuzstr.	8-15
-Lutherstr.	alle
-Schornsteinfegergasse	6-14
-Spindelstr.	5A-12
-Tuchmacherstr.	1-17, 34-51
-Weberplatz	1-19
 Wahlbezirk 5301	WK 21
 Berlin Brandenburgische Auslandsgesellschaft	
 Schulstr. 8b	
 14482 Potsdam	
-Wahlbezirk 5305	WK 21
-"Kindertagesstätte ""Sandscholle"""	
-Franz-Mehring-Str. 54	
-14482 Potsdam	barrierefrei
-""	
+	
 Daimlerstr.	ung. 5-11, ger. 14-18
 Dieselstr.	1-18
 Friedrich-Engels-Str.	25-56
@@ -1150,6 +1147,50 @@ Karl-Liebknecht-Str.	139-140
 Lutherplatz	3-7
 Neuendorfer Anger	alle
 Wattstr.	ung. 17-23
+Wahlbezirk 5302	WK 21
+Goethe-Grundschule (31)	
+Stephensonstr. 1	
+14482 Potsdam	barrierefrei
+Dieselstr.	ger. 20-50
+Fultonstr.	14,16
+Großbeerenstr.	ung. 29-65A, ger. 38-90
+H.-v.-Kleist-Str.	ung. 3-17, ger. 2-12
+Horstweg	1-6
+Kopernikusstr.	ung. 33-57
+Siemensstr.	ung. 15-37
+Wattstr.	ger. 20-24
+Wahlbezirk 5303	WK 21
+Goethe-Grundschule (31)	
+Stephensonstr. 1	
+14482 Potsdam	barrierefrei
+Althoffstr.	alle
+Anhaltstr.	alle
+Benzstr.	alle
+Eichenweg	alle
+Großbeerenstr.	ger.92-114
+Heideweg	alle
+Kopernikusstr.	ger. 2-54
+Paul-Neumann-Str.	2-54
+Pestalozzistr.	alle
+Stephensonstr.	alle
+Wahlbezirk 5304	WK 21
+Sportplatz Sandscholle	
+Franz-Mehring-Str. 54	
+14482 Potsdam	barrierefrei
+Am Klubhaus	alle
+Am Sportplatz	31-49
+An der Sandscholle	ger.32-52
+August-Bebel-Str.	11,13
+August-Bebel-Str.	ger. 6-12
+Blumenweg	ung. 1-23
+Franz-Mehring-Str.	ung. 1-19, ger. 2-12
+Rosenstr.	ung. 1-25, ger. 2-66
+Rotdornweg	alle
+Stahnsdorfer Str.	ung. 1-75, ger. 4-110
+Wahlbezirk 5305	WK 21
+"Kindertagesstätte ""Sandscholle"""	
+Franz-Mehring-Str. 54	
+14482 Potsdam	barrierefrei
 Am Sportplatz	1-29
 An der Sandscholle	2-30
 August-Bebel-Str.	28-66
@@ -1164,25 +1205,13 @@ Marlene-Dietrich-Allee	9
 Merkurstr.	alle
 Paul-Neumann-Str.	55-97
 Rosenstr.	ung. 27-55
-Wahlbezirk 5302	WK 21
-Goethe-Grundschule (31)	
-Stephensonstr. 1	
-14482 Potsdam	barrierefrei
-""	
+	
 Wahlbezirk 5306	WK 21
 Universität Potsdam, Komplex III	
 August-Bebel-Str. 89	
 14482 Potsdam	barrierefrei
-Dieselstr.	ger. 20-50
-Fultonstr.	14,16
-Großbeerenstr.	ung. 29-65A, ger. 38-90
-H.-v.-Kleist-Str.	ung. 3-17, ger. 2-12
-Horstweg	1-6
-Kopernikusstr.	ung. 33-57
-Siemensstr.	ung. 15-37
-Wattstr.	ger. 20-24
 August-Bebel-Str.	16-27, ung. 77-89F,
-""	ger. 68-88
+	ger. 68-88
 Dianastr.	ung. 1-21
 Försterweg	alle
 Heinz-Rühmann-Weg	alle
@@ -1191,33 +1220,19 @@ Marlene-Dietrich-Allee	ung. 11-27, 20
 Prof.-Dr.-Helmert-Str.	alle
 Rote-Kreuz-Str.	alle
 Stahnsdorfer Str.	ung. 77-129,
-""	ger. 140-156C
+	ger. 140-156C
 Steinstr.	ung. 1-23, ger. 2-18
-Wahlbezirk 5303	WK 21
-Goethe-Grundschule (31)	
-Stephensonstr. 1	
-14482 Potsdam	barrierefrei
-""	
+	
 Wahlbezirk 5307	WK 21
 Institut für Weiterbildung	
 Fritz-Zubeil-Str. 14	
 14482 Potsdam	barrierefrei
-Althoffstr.	alle
-Anhaltstr.	alle
-Benzstr.	alle
-Eichenweg	alle
-Großbeerenstr.	ger.92-114
-Heideweg	alle
-Kopernikusstr.	ger. 2-54
-Paul-Neumann-Str.	2-54
-Pestalozzistr.	alle
-Stephensonstr.	alle
 Ahornstr.	alle
 An den Windmühlen	ger. 2-28A
 Beetzweg	alle
 Biberweg	alle
 Fritz-Zubeil-Str.	ung. 1-23A, ger. 2-36,
-""	ger.60-96
+	ger.60-96
 GA Glück Auf	alle
 GA Grüner Winkel	alle
 GA Uns genügts	alle
@@ -1234,35 +1249,10 @@ Sophie-Farber-Str.	alle
 Ulmenstr.	alle
 Weidendamm	alle
 Wetzlarer Str.	alle
-Wahlbezirk 5304	WK 21
-Sportplatz Sandscholle	
-Franz-Mehring-Str. 54	
-14482 Potsdam	barrierefrei
-Am Klubhaus	alle
-Am Sportplatz	31-49
-An der Sandscholle	ger.32-52
-August-Bebel-Str.	11,13
-August-Bebel-Str.	ger. 6-12
-Blumenweg	ung. 1-23
-Franz-Mehring-Str.	ung. 1-19, ger. 2-12
-Rosenstr.	ung. 1-25, ger. 2-66
-Rotdornweg	alle
-Stahnsdorfer Str.	ung. 1-75, ger. 4-110
 Wahlbezirk 5308	WK 21
 Jugendherberge Potsdam - Haus der Jugend	
 Schulstr. 9	
 14482 Potsdam	barrierefrei
-Birkengrund	alle
-Friedhofsgasse	ger. 2-6
-Friedrich-Engels-Str.	17-24
-GA Oberförsterwiese	alle
-Heinrich-Mann-Allee	106, 106A
-Horstweg	ung. 53-57, 96
-Kolonie Daheim	alle
-Kurze Str.	alle
-Nuthewinkel	1-6
-Schlaatzstr.	alle
-Schlaatzweg	alle
 Fultonstr.	ung. 1-21, ger. 2-8
 Großbeerenstr.	ger. 2-34
 H.-v.-Kleist-Str.	1, 1B
@@ -1272,25 +1262,10 @@ Lutherplatz	1-2
 Schulstr.	alle
 Siemensstr.	ung. 1-13, ger. 2-38
 Wattstr.	2-16
-""	
-Wahlbezirk 6202	WK 22
-Humboldt-Gymnasium (1)	
-Heinrich-Mann-Allee 103	
-14473 Potsdam	barrierefrei
 Wahlbezirk 5309	WK 21
 Institut für Weiterbildung	
 Fritz-Zubeil-Str. 14	
 14482 Potsdam	barrierefrei
-Albert-Einstein-Str.	ger. 26-46, 49
-Alte Gärtnerei	ger. 2-18
-Am Brunnen	alle
-Drevesstr.	1-27, 40-64
-Heinrich-Mann-Allee	25-57, 103-105C
-Horstweg	ung. 105-109
-Kunersdorfer Str.	1-25
-Michendorfer Chaussee	6, 7
-Nuthewinkel	13, 14-14B
-Telegrafenberg	alle
 An den Windmühlen	ung. 5-31
 Baberowweg	alle
 Dieselstr.	ung. 27-61, ger. 52 -60
@@ -1306,27 +1281,7 @@ Jacques-Russ-Str.	alle
 Lotte-Laserstein-Str.	alle
 Rudolf-Moos-Str.	alle
 Walter-Klausch-Str.	alle
-Wahlbezirk 6203	WK 22
-Internationale Grundschule	
-Ravensbergweg 30	
-14473 Potsdam	
-Am Försteracker	alle
-Am Plantagenhaus	alle
-Am Wald	alle
-Damaschkeweg	alle
-Drevesstr.	28-39
-Hasensprung	alle
-Hegemeisterweg	alle
-Heidereiterweg	alle
-Heimrode	alle
-Heinrich-Mann-Allee	58-95
-Kottmeierstr.	alle
-Kunersdorfer Str.	26-38
-Ravensberggestell	alle
-Ravensbergweg	alle
-Vogelsang	alle
-Waldstr.	alle
-""	
+	
 Wahlbezirk 6101	WK 22
 Hoffbauer Tagungshaus	
 Hermannswerder 23	
@@ -1348,12 +1303,65 @@ Leipziger Str.	19-50
 Leiterstr.	alle
 Luisenhof	alle
 Michendorfer Chaussee	1-5, ung. 19-115A,
-""	ger. 8-114
+	ger. 8-114
 Paetowstr.	alle
 Templiner Str.	alle
 Tornowstr.	alle
 Ulrich-von-Hutten-Str.	alle
-""	
+Wahlbezirk 6201	WK 22
+Märkische Verlags- u. Druckgesellschaft GmbH	
+Friedrich-Engels-Str. 24	
+14473 Potsdam	barrierefrei
+Alte Gärtnerei	ung. 1-17
+An den Kopfweiden	alle
+Bergholzer Str.	alle
+Birkengrund	alle
+Friedhofsgasse	ger. 2-6
+Friedrich-Engels-Str.	17-24
+GA Oberförsterwiese	alle
+Heinrich-Mann-Allee	106, 106A
+Horstweg	ung. 53-57, 96
+Kolonie Daheim	alle
+Kurze Str.	alle
+Nuthewinkel	1-6
+Schlaatzstr.	alle
+Schlaatzweg	alle
+	
+Wahlbezirk 6202	WK 22
+Humboldt-Gymnasium (1)	
+Heinrich-Mann-Allee 103	
+14473 Potsdam	barrierefrei
+Albert-Einstein-Str.	ger. 26-46, 49
+Alte Gärtnerei	ger. 2-18
+Am Brunnen	alle
+Drevesstr.	1-27, 40-64
+Heinrich-Mann-Allee	25-57, 103-105C
+Horstweg	ung. 105-109
+Kunersdorfer Str.	1-25
+Michendorfer Chaussee	6, 7
+Nuthewinkel	13, 14-14B
+Telegrafenberg	alle
+Wahlbezirk 6203	WK 22
+Internationale Grundschule	
+Ravensbergweg 30	
+14473 Potsdam	
+Am Försteracker	alle
+Am Plantagenhaus	alle
+Am Wald	alle
+Damaschkeweg	alle
+Drevesstr.	28-39
+Hasensprung	alle
+Hegemeisterweg	alle
+Heidereiterweg	alle
+Heimrode	alle
+Heinrich-Mann-Allee	58-95
+Kottmeierstr.	alle
+Kunersdorfer Str.	26-38
+Ravensberggestell	alle
+Ravensbergweg	alle
+Vogelsang	alle
+Waldstr.	alle
+	
 Wahlbezirk 6301	WK 22
 Gesamtschule Am Schilfhof (49)	
 Schilfhof 23-25	
@@ -1368,54 +1376,24 @@ Wahlbezirk 6302	WK 22
 Gesamtschule Am Schilfhof (49)	
 Schilfhof 23-25	
 14478 Potsdam	barrierefrei
-Wahlbezirk 6201	WK 22
-Märkische Verlags- u. Druckgesellschaft GmbH	
-Friedrich-Engels-Str. 24	
-14473 Potsdam	barrierefrei
 An der Alten Zauche	ger. 24-28
 Falkenhorst	ung. 19-25, ger. 14-38
 Habichthorst	ung.1-13
 Milanhorst	ung. 9-39, ger. 2-24
 Schilfhof	ung. 1-25
-Alte Gärtnerei	ung. 1-17
-An den Kopfweiden	alle
-Bergholzer Str.	alle
 Wahlbezirk 6303	WK 22
 Gesamtschule Am Schilfhof (49)	
 Schilfhof 23-25	
 14478 Potsdam	barrierefrei
-Käuzchenweg	alle
-Lisdorf	alle
-Meisenweg	3-13
-Tiroler Damm	alle
-Unter den Eichen	1-50
-Zur Nuthe	alle
 Erlenhof	ung. 1-57, ger. 24-36
 Magnus-Zeller-Platz	2,4,6
 Schilfhof	ger. 18-26
 Weidenhof	alle
-Wahlbezirk 6402	WK 22
-Waldorfschule Potsdam e. V.	
-Erich-Weinert-Str. 5	
-14478 Potsdam	barrierefrei
-""	
+	
 Wahlbezirk 6304	WK 22
 Schule am Nuthetal (10/30)	
 An der Alten Zauche 2c	
 14478 Potsdam	
-Am Buchhorst	alle
-Am Bürohochhaus	alle
-Am Stadtrand	25-60
-An der Brauerei	alle
-Drewitzer Str.	ung. 41-51, ger. 38-
-""	38C, ger. 42-50
-Erich-Weinert-Str.	9-50
-Handelshof	alle
-Meisenweg	1,2
-Möbelhof	alle
-Nuthedamm	1, 1B, 31-33
-Verkehrshof	alle
-Zum Heizwerk	alle
 An der Alten Zauche	ger. 2-22
 Binsenhof	alle
 Drewitzer Str.	1,2,2B
@@ -1428,22 +1406,10 @@ Horstweg	ger. 98-108
 Julius-Posener-Str.	alle
 Magnus-Zeller-Platz	1,3
 Schilfhof	ger. 2-16
-""	
-Wahlbezirk 6403	WK 22
-Waldstadt-Grundschule (27)	
-Friedrich-Wolf-Str. 12	
-14478 Potsdam	
 Wahlbezirk 6305	WK 22
 Bürgerhaus am Schlaatz	
 Schilfhof 28	
 14478 Potsdam	barrierefrei
-Bernh.-Kellermann-Str.	alle
-Drewitzer Str.	20A, 22A
-Eduard-Claudius-Str.	alle
-Erich-Weinert-Str.	1 A
-Friedrich-Wolf-Str.	9-12
-Joh.-R.-Becher-Str.	2-28, 54-77
-Kuckucksruf	alle
 Bisamkiez	ung. 13-45, ger.26-36
 Erlenhof	ger. 10-22
 Inselhof	alle
@@ -1453,48 +1419,23 @@ Wahlbezirk 6306 WK 22
 Schulen u. Wohnheim mit sonderpäd. Förderschwerpunkt
 Bisamkiez 107-111
 14478 Potsdam barrierefrei
-Wahlbezirk 6404	WK 22
-Waldstadt-Grundschule (27)	
-Friedrich-Wolf-Str. 12	
-14478 Potsdam	
 Am Nuthetal	ger. 10-24
 Biberkiez	alle
 Bisamkiez	Ung. 1-11, ung. 101-111
-""	102
+	102
 Erlenhof	ger. 2-8
 Meisenweg	102
 Pappelhof	alle
 Unter den Eichen	58
 Wiesenhof	alle
-Bertolt-Brecht-Str.	alle
-Brunnenallee	alle
-Drewitzer Str.	ung. 23-39A, 40, 40A
-Erich-Weinert-Str.	1-8, 56-71,
-""	ger. 72-100
-Friedrich-Wolf-Str.	1-8
-Joh.-R.-Becher-Str.	29-53
-Sophie-Alberti-Str.	alle
-Wahlbezirk 6501	WK 22
-Oberstufenzentrum II Wirtschaft und Verwaltung	
-Zum Jagenstein 26	
-14478 Potsdam	barrierefrei
 Wahlbezirk 6307	WK 22
 "Kindertagesstätte ""Kinderland"""	
 Bisamkiez 101	
 14478 Potsdam	barrierefrei
-Kiefernring	ger. 10-38
-Saarmunder Str.	ger. 2-4E
-Zum Jagenstein	1,2,3,4,6,8, 26,28
-Zum Kahleberg	ung. 25-99, ger. 2-26
 Am Nuthetal	ger. 2-8
 Bisamkiez	ger. 2-24
 Otterkiez	ung. 1-21, ger. 2-26
 Wieselkiez	alle
-""	
-Wahlbezirk 6502	WK 22
-Oberstufenzentrum II Wirtschaft und Verwaltung	
-Zum Jagenstein 26	
-14478 Potsdam	barrierefrei
 Wahlbezirk 6401 WK 22
 Schulen u. Wohnheim mit sonderpäd. Förderschwerpunkt
 Bisamkiez 107-111
@@ -1504,6 +1445,66 @@ Am Stadtrand	1-24
 Drewitzer Str.	3-22
 GA Nuthestrand 2	alle
 Käthe-Kollwitz-Str.	alle
+Käuzchenweg	alle
+Lisdorf	alle
+Meisenweg	3-13
+Tiroler Damm	alle
+Unter den Eichen	1-50
+Zur Nuthe	alle
+Wahlbezirk 6402	WK 22
+Waldorfschule Potsdam e. V.	
+Erich-Weinert-Str. 5	
+14478 Potsdam	barrierefrei
+Am Buchhorst	alle
+Am Bürohochhaus	alle
+Am Stadtrand	25-60
+An der Brauerei	alle
+Drewitzer Str.	ung. 41-51, ger. 38-
+	38C, ger. 42-50
+Erich-Weinert-Str.	9-50
+Handelshof	alle
+Meisenweg	1,2
+Möbelhof	alle
+Nuthedamm	1, 1B, 31-33
+Verkehrshof	alle
+Zum Heizwerk	alle
+	
+Wahlbezirk 6403	WK 22
+Waldstadt-Grundschule (27)	
+Friedrich-Wolf-Str. 12	
+14478 Potsdam	
+Bernh.-Kellermann-Str.	alle
+Drewitzer Str.	20A, 22A
+Eduard-Claudius-Str.	alle
+Erich-Weinert-Str.	1 A
+Friedrich-Wolf-Str.	9-12
+Joh.-R.-Becher-Str.	2-28, 54-77
+Kuckucksruf	alle
+Wahlbezirk 6404	WK 22
+Waldstadt-Grundschule (27)	
+Friedrich-Wolf-Str. 12	
+14478 Potsdam	
+Bertolt-Brecht-Str.	alle
+Brunnenallee	alle
+Drewitzer Str.	ung. 23-39A, 40, 40A
+Erich-Weinert-Str.	1-8, 56-71,
+	ger. 72-100
+Friedrich-Wolf-Str.	1-8
+Joh.-R.-Becher-Str.	29-53
+Sophie-Alberti-Str.	alle
+Wahlbezirk 6501	WK 22
+Oberstufenzentrum II Wirtschaft und Verwaltung	
+Zum Jagenstein 26	
+14478 Potsdam	barrierefrei
+Kiefernring	ger. 10-38
+Saarmunder Str.	ger. 2-4E
+Zum Jagenstein	1,2,3,4,6,8, 26,28
+Zum Kahleberg	ung. 25-99, ger. 2-26
+	
+Wahlbezirk 6502	WK 22
+Oberstufenzentrum II Wirtschaft und Verwaltung	
+Zum Jagenstein 26	
+14478 Potsdam	barrierefrei
 Ginsterweg	alle
 Saarmunder Str.	ung. 7-45, ger. 6-32
 Zum Jagenstein	ung. 5-37, ger. 10-24
@@ -1512,56 +1513,23 @@ Wahlbezirk 6503	WK 22
 Oberstufenzentrum II Wirtschaft und Verwaltung	
 Zum Jagenstein 26	
 14478 Potsdam	barrierefrei
-Ratsweg	ung. 1-5, ger. 2-10A
-Schubertstr.	alle
-Steinstr.	ung. 39-53
-Tschaikowskiweg	alle
-Wagnerstr.	alle
 Am Moosfenn	ger. 20-30, ung. 27-35
 Kiefernring	ung. 31-63, ger. 40-108
 Sonnentaustr.	ung. 1-21
-Wahlbezirk 7102	WK 22
-Schulzentrum am Stern - Gesamtschule (29)	
-Gagarinstr. 5-7	
-14480 Potsdam	barrierefrei
 Wahlbezirk 6504	WK 22
 Oberstufenzentrum II Wirtschaft und Verwaltung	
 Zum Jagenstein 26	
 14478 Potsdam	barrierefrei
-Bahnhofstr.	101-115
-Gagarinstr.	ger. 2-28
-Hans-Grade-Ring	ger. 32-50
-Lilienthalstr.	alle
-Pietschkerstr.	14,16,42,44
 Am Moosfenn	ung. 1-5, ger. 2-18
 Kiefernring	ung. 1-29, 4, 6
 Saarmunder Str.	ung. 47-61, ger. 40-64
 Sonnentaustr.	ger. 2-10
 Zum Jagenstein	32
 Zum Teufelssee	2,4
-Wahlbezirk 7103	WK 22
-Club 18	
-Pietschkerstr. 50	
-14480 Potsdam	barrierefrei
 Wahlbezirk 6505	WK 22
 Oberschule Theodor Fontane (51)	
 Zum Teufelssee 2-4	
 14478 Potsdam	
-Am Mittelbusch	alle
-Bebraer Str.	6
-Fichtenallee	alle
-Fuldaer Str.	alle
-GA Schäferfichten	alle
-GA Wochenend	alle
-Im Schäferfeld	alle
-Katharinastr.	alle
-Neuendorfer Str.	ung. 35-41, 10, 12, 14,
-""	ger. 16-42
-""	ger. 2-12, ger. 18-40,
-Pietschkerstr.	50
-Schäferweg	alle
-Turmstr.	ung. 17-47, ger. 22-46
-Unionssiedlung	alle
 Am Schlangenfenn	ger. 2-30, ung. 11-81
 Am Springbruch	alle
 Moosglöckchenweg	ger. 2-18
@@ -1573,24 +1541,10 @@ Caputher Heuweg	ger. 2-12
 Liefelds Grund	ung. 1-21, ger. 4-28
 Saarmunder Str.	66-85
 Zum Teufelssee	ung. 1-35
-Wahlbezirk 7104	WK 22
-Neue Grundschule Potsdam	
-Flotowstr. 10	
-14480 Potsdam	barrierefrei
 Wahlbezirk 6507	WK 22
 Haus der Begegnung Potsdam	
 Zum Teufelssee 30	
 14478 Potsdam	barrierefrei
-Flotowstr.	ung. 1-35
-Gluckstr.	alle
-Großbeerenstr.	ger. 262-288
-Hubertusdamm	ung. 27-47,
-""	ger. 24B-50B
-In der Aue	ung. 33-61, ger. 38-60
-M.-Bartholdy-Str.	ung. 3-47
-Patrizierweg	ung. 19-39, ger.18-58
-Ratsweg	ung. 5B-9, ger. 12-16
-Steinstr.	ung. 59-85
 Am Schlangenfenn	ung. 1-9, 50
 Caputher Heuweg	ung. 1-69
 Liefelds Grund	ung. 23-29
@@ -1600,20 +1554,16 @@ Wahlbezirk 7101	WK 22
 Schulzentrum am Stern - Gesamtschule (29)	
 Gagarinstr. 5-7	
 14480 Potsdam	barrierefrei
-Wahlbezirk 7105 WK 22
-Deutsches Rotes Kreuz - Behindertenwerkstätten Potsdam
-Kohlhasenbrücker Str. 106
-14480 Potsdam barrierefrei
 Am Gehölz	alle
 Bahnhofstr.	1-42, ger. 124-126A,
-""	127
+	127
 Beethovenstr.	alle
 GA Naturfreunde	alle
 Gagarinstr.	ung. 1-7
 Großbeerenstr.	ung. 209 -261,
-""	ger. 206-258
+	ger. 206-258
 Hans-Grade-Ring	ung. 1-17, ger. 2-30,
-""	ger. 60-70
+	ger. 60-70
 Hubertusdamm	1-24A
 In der Aue	ung. 11-31A, ger. 8-36
 Lortzingstr.	alle
@@ -1621,6 +1571,57 @@ M.-Bartholdy-Str.	ger. 2-48
 Mozartstr.	alle
 Parallelweg	alle
 Patrizierweg	1-14
+Ratsweg	ung. 1-5, ger. 2-10A
+Schubertstr.	alle
+Steinstr.	ung. 39-53
+Tschaikowskiweg	alle
+Wagnerstr.	alle
+Wahlbezirk 7102	WK 22
+Schulzentrum am Stern - Gesamtschule (29)	
+Gagarinstr. 5-7	
+14480 Potsdam	barrierefrei
+Bahnhofstr.	101-115
+Gagarinstr.	ger. 2-28
+Hans-Grade-Ring	ger. 32-50
+Lilienthalstr.	alle
+Pietschkerstr.	14,16,42,44
+Wahlbezirk 7103	WK 22
+Club 18	
+Pietschkerstr. 50	
+14480 Potsdam	barrierefrei
+Am Mittelbusch	alle
+Bebraer Str.	6
+Fichtenallee	alle
+Fuldaer Str.	alle
+GA Schäferfichten	alle
+GA Wochenend	alle
+Im Schäferfeld	alle
+Katharinastr.	alle
+Neuendorfer Str.	ung. 35-41, 10, 12, 14,
+	ger. 16-42
+	ger. 2-12, ger. 18-40,
+Pietschkerstr.	50
+Schäferweg	alle
+Turmstr.	ung. 17-47, ger. 22-46
+Unionssiedlung	alle
+Wahlbezirk 7104	WK 22
+Neue Grundschule Potsdam	
+Flotowstr. 10	
+14480 Potsdam	barrierefrei
+Flotowstr.	ung. 1-35
+Gluckstr.	alle
+Großbeerenstr.	ger. 262-288
+Hubertusdamm	ung. 27-47,
+	ger. 24B-50B
+In der Aue	ung. 33-61, ger. 38-60
+M.-Bartholdy-Str.	ung. 3-47
+Patrizierweg	ung. 19-39, ger.18-58
+Ratsweg	ung. 5B-9, ger. 12-16
+Steinstr.	ung. 59-85
+Wahlbezirk 7105 WK 22
+Deutsches Rotes Kreuz - Behindertenwerkstätten Potsdam
+Kohlhasenbrücker Str. 106
+14480 Potsdam barrierefrei
 An der Parforceheide	alle
 Flotowstr.	ger. 4-12
 Großbeerenstr.	366
@@ -1628,16 +1629,12 @@ Hubertusdamm	ung. 49-79
 Kohlhasenbrücker Str.	ger. 100-106
 Patrizierweg	ung. 43-69, ger. 62-92
 Steinstr.	ung. 95-105,
-""	ger. 44B-106
-""	
-""	
+	ger. 44B-106
+	
+	
 Wahlbezirk 7106	WK 22
 Grundschule Am Pappelhain (36/45)	
 Galileistr. 8	
-14480 Potsdam	barrierefrei
-Wahlbezirk 7112	WK 22
-Leibniz-Gymnasium (41)	
-Galileistr. 2-4	
 14480 Potsdam	barrierefrei
 Chopinstr.	alle
 Galileistr.	ger. 2-10
@@ -1650,26 +1647,6 @@ Newtonstr.	ung. 1-15A, ger. 2-12
 Röhrenstr.	alle
 Schwarzschildstr.	alle
 Ziolkowskistr.	1, ger. 2-8
-""	
-Galileistr.	ung. 77-89
-Gaußstr.	alle
-Jagdhausstr.	32
-Otto-Haseloff-Str.	13, 13A, 14
-Sternstr.	ung. 31-37, ger. 30-38
-""
-Wahlbezirk 7113 WK 22
-Deutsches Rotes Kreuz - Behindertenwerkstätten Potsdam
-Kohlhasenbrücker Str. 106
-14480 Potsdam barrierefrei
-Großbeerenstr.	ung. 285-359, 344
-Grotrianstr.	ger. 2-32
-Jagdhausstr.	1-15
-Kohlhasenbrücker Str.	ung. 1-15C, ger. 2-36
-Otto-Haseloff-Str.	ung. 17-23B,
-""	ger. 16-22B
-Steinstr.	ger. 118-162
-Waldhornweg	26-35A
-Wildeberstr.	29-38C
 Wahlbezirk 7107	WK 22
 Grundschule Am Pappelhain (36/45)	
 Galileistr. 8	
@@ -1681,32 +1658,9 @@ Wahlbezirk 7108	WK 22
 Grundschule Am Pappelhain (36/45)	
 Galileistr. 8	
 14480 Potsdam	barrierefrei
-""	
-Wahlbezirk 7201	WK 22
-Schiller Grundschule im Sternfeld	
-Sternstr. 68	
-14480 Potsdam	
 Galileistr.	ung. 19-39
 Leibnizring	alle
 Max-Born-Str.	19, 21
-Alt Drewitz	alle
-Am Friedhof	alle
-Am Hirtengraben	1-9a
-Am Silbergraben	alle
-Bebraer Str.	1,3
-Clara-Schumann-Str.	23-26
-GA Am Hirtengraben	alle
-Gerlachstr.	1-8
-In den Neuen Höfen	alle
-Kirchstr.	alle
-Neuendorfer Str.	ung. 1-13, ger. 2-8,
-""	10D, 12D, 14D,
-""	ung. 15D-17D, 44-74
-Nuthedamm	2-30
-Sternstr.	1-18A, 63-82
-Trebbiner Str.	alle
-Turmstr.	1-10, 54-72
-Zum Kirchsteigfeld	ung. 1-11
 Wahlbezirk 7109	WK 22
 Leibniz-Gymnasium (41)	
 Galileistr. 2-4	
@@ -1724,13 +1678,67 @@ Otto-Hahn-Ring	ung. 1-41, ger. 2-32
 Otto-Haseloff-Str.	28, 30
 Waldhornweg	12-14
 Ziolkowskistr.	61
-Wahlbezirk 7202	WK 22
-KATHARINENHOF WOHNPARK AM STERN	
-Hans-Albers-Str. 3	
-14480 Potsdam	barrierefrei
 Wahlbezirk 7111	WK 22
 Leibniz-Gymnasium (41)	
 Galileistr. 2-4	
+14480 Potsdam	barrierefrei
+Eulenkamp	alle
+Jagdhausstr.	ung. 21-33, ger.16-26
+Otto-Haseloff-Str.	15, 24, 24A, 25
+Waldhornweg	16-25
+Waldhornweg	38-49
+Wildeberstr.	1-24A, 43-55
+Ziolkowskistr.	ung. 15-49, ger. 14-74
+Wahlbezirk 7112	WK 22
+Leibniz-Gymnasium (41)	
+Galileistr. 2-4	
+14480 Potsdam	barrierefrei
+	
+Galileistr.	ung. 77-89
+Gaußstr.	alle
+Jagdhausstr.	32
+Otto-Haseloff-Str.	13, 13A, 14
+Sternstr.	ung. 31-37, ger. 30-38
+""
+Wahlbezirk 7113 WK 22
+Deutsches Rotes Kreuz - Behindertenwerkstätten Potsdam
+Kohlhasenbrücker Str. 106
+14480 Potsdam barrierefrei
+Großbeerenstr.	ung. 285-359, 344
+Grotrianstr.	ger. 2-32
+Jagdhausstr.	1-15
+Kohlhasenbrücker Str.	ung. 1-15C, ger. 2-36
+Otto-Haseloff-Str.	ung. 17-23B,
+	ger. 16-22B
+Steinstr.	ger. 118-162
+Waldhornweg	26-35A
+Wildeberstr.	29-38C
+	
+Wahlbezirk 7201	WK 22
+Schiller Grundschule im Sternfeld	
+Sternstr. 68	
+14480 Potsdam	
+Alt Drewitz	alle
+Am Friedhof	alle
+Am Hirtengraben	1-9a
+Am Silbergraben	alle
+Bebraer Str.	1,3
+Clara-Schumann-Str.	23-26
+GA Am Hirtengraben	alle
+Gerlachstr.	1-8
+In den Neuen Höfen	alle
+Kirchstr.	alle
+Neuendorfer Str.	ung. 1-13, ger. 2-8,
+	10D, 12D, 14D,
+	ung. 15D-17D, 44-74
+Nuthedamm	2-30
+Sternstr.	1-18A, 63-82
+Trebbiner Str.	alle
+Turmstr.	1-10, 54-72
+Zum Kirchsteigfeld	ung. 1-11
+Wahlbezirk 7202	WK 22
+KATHARINENHOF WOHNPARK AM STERN	
+Hans-Albers-Str. 3	
 14480 Potsdam	barrierefrei
 Asta-Nielsen-Str.	alle
 Erich-Pommer-Str.	alle
@@ -1740,23 +1748,12 @@ Hans-Albers-Str.	alle
 Konrad-Wolf-Allee	ger. 2-12
 Sterncenter	alle
 Sternstr.	29A, 29B, ung. 39-53,
-""	ger. 40-52A
+	ger. 40-52A
 Zum Kirchsteigfeld	2,4
-Eulenkamp	alle
-Jagdhausstr.	ung. 21-33, ger.16-26
-Otto-Haseloff-Str.	15, 24, 24A, 25
-Waldhornweg	16-25
-Waldhornweg	38-49
-Wildeberstr.	1-24A, 43-55
-Ziolkowskistr.	ung. 15-49, ger. 14-74
 Wahlbezirk 7203	WK 22
 Schiller Gymnasium	
 Fritz-Lang-Str. 15	
 14480 Potsdam	
-Wahlbezirk 7302	WK 22
-Friedrich-W.-von-Steuben-Gesamtschule (46)	
-Ricarda-Huch-Str. 23-27	
-14480 Potsdam	barrierefrei
 Ernst-Lubitsch-Weg	1-7, 8,10
 Friedrich-W.-Murnau-Str.	alle
 Fritz-Lang-Str.	ung. 1-17, ger. 2-8
@@ -1764,41 +1761,17 @@ Hertha-Thiele-Weg	ger. 2-12
 Konrad-Wolf-Allee	ung. 1-21, 12A
 Paul-Wegener-Str.	alle
 Wolfgang-Staudte-Str.	ger. 2-12
-Am Hirtengraben	ung. 21-37
-Bellavitestr.	alle
-Büringstr.	alle
-Dorothea-Schneider-Str.	ung. 1-9, ger. 2-6
-Maimi-von-Mirbach-Str.	alle
-Maxie-Wander-Str.	ung. 1-9, ger. 6-16
-Nelly-Sachs-Str.	ung. 1-5
-Ricarda-Huch-Str.	ung. 15-35, ger. 18-42
 Wahlbezirk 7204	WK 22
 Schiller Gymnasium	
 Fritz-Lang-Str. 15	
 14480 Potsdam	
-""	
-Wahlbezirk 7303	WK 22
-Grundschule Im Kirchsteigfeld (56)	
-Lise-Meitner-Str. 4-6	
-14480 Potsdam	barrierefrei
 Conrad-Veidt-Str.	alle
 Fritz-Lang-Str.	ger. 10-22
 Günther-Simon-Str.	alle
 Priesterweg	alle
 Willi-Schiller-Weg	alle
 Wolfgang-Staudte-Str.	ung. 1-23
-Anni-von-Gottberg-Str.	11,13, ger. 6-14
-Clara-Schumann-Str.	ger. 2-22B
-Dorothea-Schneider-Str.	ger. 14-18
-Kamblystr.	alle
-Lise-Meitner-Str.	1-26, 28
-Marie-Hannemann-Str.	alle
-Marie-Juchacz-Str.	ung. 3-9, ger. 2-20B
-Schadowstr.	alle
-Schinkelstr.	alle
-Stülerstr.	alle
-Zum Teich	alle
-""	
+	
 Wahlbezirk 7205	WK 22
 Stadtteilschule Drewitz	
 Oskar-Meßter-Str. 4-6	
@@ -1810,18 +1783,6 @@ Konrad-Wolf-Allee	ung. 27-45, ger. 14-24
 Sternstr.	29
 Willy-A.-Kleinau-Weg	ger. 2-30
 Wolfgang-Staudte-Str.	ger. 14-24
-""	
-Wahlbezirk 7304	WK 22
-Grundschule Im Kirchsteigfeld (56)	
-Lise-Meitner-Str. 4-6	
-14480 Potsdam	barrierefrei
-Anni-von-Gottberg-Str.	1-9
-Clara-Schumann-Str.	ung. 1-21
-Gertrud-Kolmar-Str.	alle
-Lise-Meitner-Str.	27, 29, 30, 32, 34
-Marie-Juchacz-Str.	ung. 11-15, ger.22-38
-Mildred-Harnack-Str.	alle
-Pierre-de-Gayette-Str.	alle
 Wahlbezirk 7206	WK 22
 Stadtteilschule Drewitz	
 Oskar-Meßter-Str. 4-6	
@@ -1836,20 +1797,7 @@ Slatan-Dudow-Str.	alle
 Sternstr.	20-28, 53A-62
 Willy-A.-Kleinau-Weg	ung. 3-7
 Zum Kirchsteigfeld	12
-Wahlbezirk 8101	WK 19
-Freiwillige Feuerwehr	
-Uetzer Dorfstr. 16	
-14476 Potsdam	barrierefrei
-Am Parkplatz	alle
-Kanalweg	alle
-Kirschweg	alle
-Paarener Dorfstr.	alle
-Paarener Mühlenweg	alle
-Potsdamer Str. Uetz-Paaren	alle
-Schwarzer Weg Uetz-Paaren	alle
-Siedlung	alle
-Uetzer Dorfstr.	alle
-""	
+	
 Wahlbezirk 7301	WK 22
 Friedrich-W.-von-Steuben-Gesamtschule (46)	
 Ricarda-Huch-Str. 23-27	
@@ -1864,6 +1812,59 @@ M.-Buber-Neumann-Str.	alle
 Maxie-Wander-Str.	2,4
 Nelly-Sachs-Str.	ung. 7-17, ger. 2-16
 Ricarda-Huch-Str.	ger. 2-16
+Wahlbezirk 7302	WK 22
+Friedrich-W.-von-Steuben-Gesamtschule (46)	
+Ricarda-Huch-Str. 23-27	
+14480 Potsdam	barrierefrei
+Am Hirtengraben	ung. 21-37
+Bellavitestr.	alle
+Büringstr.	alle
+Dorothea-Schneider-Str.	ung. 1-9, ger. 2-6
+Maimi-von-Mirbach-Str.	alle
+Maxie-Wander-Str.	ung. 1-9, ger. 6-16
+Nelly-Sachs-Str.	ung. 1-5
+Ricarda-Huch-Str.	ung. 15-35, ger. 18-42
+	
+Wahlbezirk 7303	WK 22
+Grundschule Im Kirchsteigfeld (56)	
+Lise-Meitner-Str. 4-6	
+14480 Potsdam	barrierefrei
+Anni-von-Gottberg-Str.	11,13, ger. 6-14
+Clara-Schumann-Str.	ger. 2-22B
+Dorothea-Schneider-Str.	ger. 14-18
+Kamblystr.	alle
+Lise-Meitner-Str.	1-26, 28
+Marie-Hannemann-Str.	alle
+Marie-Juchacz-Str.	ung. 3-9, ger. 2-20B
+Schadowstr.	alle
+Schinkelstr.	alle
+Stülerstr.	alle
+Zum Teich	alle
+	
+Wahlbezirk 7304	WK 22
+Grundschule Im Kirchsteigfeld (56)	
+Lise-Meitner-Str. 4-6	
+14480 Potsdam	barrierefrei
+Anni-von-Gottberg-Str.	1-9
+Clara-Schumann-Str.	ung. 1-21
+Gertrud-Kolmar-Str.	alle
+Lise-Meitner-Str.	27, 29, 30, 32, 34
+Marie-Juchacz-Str.	ung. 11-15, ger.22-38
+Mildred-Harnack-Str.	alle
+Pierre-de-Gayette-Str.	alle
+Wahlbezirk 8101	WK 19
+Freiwillige Feuerwehr	
+Uetzer Dorfstr. 16	
+14476 Potsdam	barrierefrei
+Am Parkplatz	alle
+Kanalweg	alle
+Kirschweg	alle
+Paarener Dorfstr.	alle
+Paarener Mühlenweg	alle
+Potsdamer Str. Uetz-Paaren	alle
+Schwarzer Weg Uetz-Paaren	alle
+Siedlung	alle
+Uetzer Dorfstr.	alle
 Wahlbezirk 8201	WK 19
 Kulturscheune Marquardt	
 Fahrländer Str. 1c	
@@ -1897,34 +1898,9 @@ Schusterweg	alle
 Seestr. Marquardt	alle
 Spielstr.	alle
 Zum Bahnübergang	alle
-Kartzower Dorfstr.	alle
-Ketziner Str.	ger. 66-138
-Wahlbezirk 8403	WK 19
-Kulturladen Fahrland	
-Ketziner Str. 53	
-14476 Potsdam	
-Am Upstallgraben	alle
-Am Weinberg	alle
-An der Jubelitz	alle
-Ketziner Str.	ung. 15-53, ger. 4-34,
-""	ung. 87-179
-Kienhorststr.	1A-3A, 5-8
-Marquardter Str. Ausbau	alle
-Marquardter Str. Fahrland	5-17
-Müllerweg	alle
-Pappelallee Fahrland	alle
-Rönsahler Str.	alle
-Schmidtweg	alle
-Von-Stechow-Str.	1, ger. 2-10
-Zum Storchennest	alle
 Wahlbezirk 8301	WK 19
 Gemeindehaus Satzkorn	
 Dorfstr. Satzkorn 2	
-14476 Potsdam	
-""	
-Wahlbezirk 8404	WK 19
-Regenbogenschule (7)	
-Ketziner Str. 90	
 14476 Potsdam	
 Bahnhofstr. Satzkorn	alle
 Birnenweg Satzkorn	alle
@@ -1940,6 +1916,59 @@ Satzkorner Ringstr.	alle
 Straße des Friedens	alle
 Straße zum Bahnhof	alle
 Tulpenweg	alle
+Wahlbezirk 8401	WK 19
+Feuerwehr-Gerätehaus Fahrland	
+Priesterstr. 13	
+14476 Potsdam	
+An den Eisbergstücken	alle
+Gellertstr.	alle
+Hannoversche Str.	alle
+Kienhorststr.	3B-3F, 4-4F
+Märkerring	alle
+Milanring	alle
+Mühlenring	alle
+Privatweg	alle
+Rotkehlchenweg	alle
+Von-Stechow-Str.	ung. 113-155
+Wahlbezirk 8402	WK 19
+Regenbogenschule (7)	
+Ketziner Str. 90	
+14476 Potsdam	
+Am Friedhof Fahrland	alle
+Am Spitzen Berg	alle
+Am Upstall	ung. 11-15, ger. 10-30
+An den Leddigen	alle
+An der Windmühle	alle
+Döberitzer Str.	ung. 29-95, ger. 2-22
+Fahrländer Chaussee	alle
+Glienicker Weg	alle
+Hasensteg	alle
+Im Winkel	alle
+Kartzower Dorfstr.	alle
+Ketziner Str.	ger. 66-138
+Wahlbezirk 8403	WK 19
+Kulturladen Fahrland	
+Ketziner Str. 53	
+14476 Potsdam	
+Am Upstallgraben	alle
+Am Weinberg	alle
+An der Jubelitz	alle
+Ketziner Str.	ung. 15-53, ger. 4-34,
+	ung. 87-179
+Kienhorststr.	1A-3A, 5-8
+Marquardter Str. Ausbau	alle
+Marquardter Str. Fahrland	5-17
+Müllerweg	alle
+Pappelallee Fahrland	alle
+Rönsahler Str.	alle
+Schmidtweg	alle
+Von-Stechow-Str.	1, ger. 2-10
+Zum Storchennest	alle
+	
+Wahlbezirk 8404	WK 19
+Regenbogenschule (7)	
+Ketziner Str. 90	
+14476 Potsdam	
 Am Upstall	1-9
 Döberitzer Str.	ung. 1-27
 Gartenstr. Fahrland	alle
@@ -1954,10 +1983,6 @@ Wahlbezirk 8501	WK 19
 Bürgerhaus Neu Fahrland	
 Am Kirchberg 51	
 14476 Potsdam	barrierefrei
-Wahlbezirk 8401	WK 19
-Feuerwehr-Gerätehaus Fahrland	
-Priesterstr. 13	
-14476 Potsdam	
 Am Fährgut	alle
 Am Föhrenhang	alle
 Am Großen Horn	alle
@@ -1985,37 +2010,9 @@ Sonnenweg	alle
 Tschudistr.	alle
 Zu den drei Mohren	alle
 Zum Weißen See	alle
-An den Eisbergstücken	alle
-Gellertstr.	alle
-Hannoversche Str.	alle
-Kienhorststr.	3B-3F, 4-4F
-Märkerring	alle
-Milanring	alle
-Mühlenring	alle
-Privatweg	alle
-Rotkehlchenweg	alle
-Von-Stechow-Str.	ung. 113-155
-Wahlbezirk 8402	WK 19
-Regenbogenschule (7)	
-Ketziner Str. 90	
-14476 Potsdam	
-Am Friedhof Fahrland	alle
-Am Spitzen Berg	alle
-Am Upstall	ung. 11-15, ger. 10-30
-An den Leddigen	alle
-An der Windmühle	alle
-Döberitzer Str.	ung. 29-95, ger. 2-22
-Fahrländer Chaussee	alle
-Glienicker Weg	alle
-Hasensteg	alle
-Im Winkel	alle
 Wahlbezirk 8601	WK 19
 Groß Glienicker Begegnungshaus	
 Glienicker Dorfstr. 2	
-14476 Potsdam	barrierefrei
-Wahlbezirk 8603	WK 19
-Grundschule Hanna von Pestalozza (6)	
-Hechtsprung 14-16	
 14476 Potsdam	barrierefrei
 Alter Weinberg	alle
 Am Gutstor	alle
@@ -2043,19 +2040,59 @@ Rudi-Ball-Str.	alle
 Seeburger Chaussee	alle
 Triftweg	7, 9
 Von-Oppen-Weg	alle
+Wahlbezirk 8602	WK 19
+Grundschule Hanna von Pestalozza (6)	
+Hechtsprung 14-16	
+14476 Potsdam	barrierefrei
+	
+Ahornweg	ung. 1-65
+Am Fenn Groß Glienicke	alle
+Am Schlahn	alle
+Am Seeblick	alle
+Am Waldfrieden	alle
+Bergstr.	ung. 35-51,
+	ger. 40-60
+Braumannweg	alle
+Bullenwinkel	alle
+Dohlenweg	alle
+Forstallee	alle
+Hechtsprung	ung. 17-25,
+	ger. 20-26
+Im Hirschen	alle
+Isoldestr.	29-46
+Krampnitzer Weg	alle
+Landhausstr.	alle
+Nibelungenstr.	alle
+Parzivalstr.	ung. 1-25, ger. 14-26
+Pilzweg	alle
+Potsdamer Chaussee Groß	51
+Glienicke	
+Rehsprung	alle
+Richard-Wagner-Str.	ung. 19-41,
+	ger. 24-36
+Sacrower Allee	1, 3, ung. 11-121,
+	ger. 88-120
+Seepromenade	70-99
+Tristanstr.	29-58
+Waldweg	alle
+Wendensteig	alle
+Wahlbezirk 8603	WK 19
+Grundschule Hanna von Pestalozza (6)	
+Hechtsprung 14-16	
+14476 Potsdam	barrierefrei
 Am Anger	alle
 An der Sporthalle	alle
 Bergstr.	ung. 5-33,
-""	ger.12-36
+	ger.12-36
 Christophorusweg	alle
 Ernst-Thälmann-Str.	alle
 Hechtsprung	ung. 1-13,
-""	ger. 2-18
+	ger. 2-18
 Isoldestr.	1-28
 Parzivalstr.	ger. 2-8
 Ribbeckweg	alle
 Richard-Wagner-Str.	ung. 1-15,
-""	ger. 2-22
+	ger. 2-22
 Sacrower Allee	2A-2B, ger. 6-84
 Seepromenade	1-68
 St-Anna-Str.	alle
@@ -2081,39 +2118,3 @@ Schulzenlandweg	alle
 Theodor-Fontane-Str.	alle
 Triftweg	1, 1C, ger. 2-8
 Ulrich-Steinhauer-Str.	alle
-Wahlbezirk 8602	WK 19
-Grundschule Hanna von Pestalozza (6)	
-Hechtsprung 14-16	
-14476 Potsdam	barrierefrei
-""	
-Ahornweg	ung. 1-65
-Am Fenn Groß Glienicke	alle
-Am Schlahn	alle
-Am Seeblick	alle
-Am Waldfrieden	alle
-Bergstr.	ung. 35-51,
-""	ger. 40-60
-Braumannweg	alle
-Bullenwinkel	alle
-Dohlenweg	alle
-Forstallee	alle
-Hechtsprung	ung. 17-25,
-""	ger. 20-26
-Im Hirschen	alle
-Isoldestr.	29-46
-Krampnitzer Weg	alle
-Landhausstr.	alle
-Nibelungenstr.	alle
-Parzivalstr.	ung. 1-25, ger. 14-26
-Pilzweg	alle
-Potsdamer Chaussee Groß	51
-Glienicke	
-Rehsprung	alle
-Richard-Wagner-Str.	ung. 19-41,
-""	ger. 24-36
-Sacrower Allee	1, 3, ung. 11-121,
-""	ger. 88-120
-Seepromenade	70-99
-Tristanstr.	29-58
-Waldweg	alle
-Wendensteig	alle

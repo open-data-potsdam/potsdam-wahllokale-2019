@@ -1,6 +1,20 @@
 #!/usr/bin/env python3
 import csv
+import json
 import re
+
+with open('tabula-strassenverzeichnis_wahllokale_wb_wk.json', 'r') as texts_file:
+    with open('tabula_specs-strassenverzeichnis_wahllokale_wb_wk.json', 'r') as specs_file:
+        with open('tabula-strassenverzeichnis_wahllokale_wb_wk.tsv', 'w') as outfile:
+            csvwriter = csv.writer(outfile, delimiter='\t', quotechar='"', lineterminator='\n', quoting=csv.QUOTE_MINIMAL)
+            texts = json.load(texts_file)
+            specs = json.load(specs_file)
+            texts_by_index = {t['spec_index']: t for t in texts}
+            specs_order = list(map(lambda s: s['spec_index'], sorted(specs, key=lambda s: (s['page'], s['x1'] > 130, s['spec_index']))))
+            for specs_index in specs_order:
+                text = texts_by_index[specs_index]
+                for row in text['data']:
+                    csvwriter.writerow(list([c['text'] for c in row]))
 
 with open('tabula-strassenverzeichnis_wahllokale_wb_wk.tsv', 'r') as infile:
     with open('wahllokale.csv', 'w') as outfile_p:
@@ -22,7 +36,9 @@ with open('tabula-strassenverzeichnis_wahllokale_wb_wk.tsv', 'r') as infile:
             housenumbers = ''
 
             for row in csvreader:
-                if inside_polling_station:
+                if row[0].startswith('Straßenverzeichnis'):
+                    pass # skip header row
+                elif inside_polling_station:
                     block_line += 1
                     station_attributes.append(row[0])
                     # Block always 3 lines
